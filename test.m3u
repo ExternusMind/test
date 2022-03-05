@@ -56,6 +56,8 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/543.ts
 #EXTINF:-1 tvg-id="challenge.uk" tvg-name="Challenge" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/challenge.png" group-title="Entertainment",Challenge
 https://hostcloud.network/live/aD8C1ETPQU28/842373/100.ts
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave HD
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692507.m3u8
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/83661.ts
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/367.ts
@@ -63,6 +65,16 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/367.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/380.ts
 #EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="Comedy Central Extra" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycentralextra.png" group-title="Entertainment",Comedy Central Extra
 https://hostcloud.network/live/aD8C1ETPQU28/842373/374.ts
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="Entertainment",AMC HD US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/4959.m3u8
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="Entertainment",Comedy Central HD US
+http://mytv.fun:8080/tommy/137xjytsyw/4882
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="Entertainment",Bravo HD US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/679201.m3u8
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="Entertainment",FX HD US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/13763.m3u8
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States" group-title="Entertainment",FXX HD US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/14353.m3u8
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4
 http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 HD
@@ -115,6 +127,8 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/44476.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/244.ts
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyartshd.png" group-title="Entertainment",Sky Arts HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/237.ts
+#EXTINF:-1 tvg-id="sky1.uk" tvg-name="Sky Showcase HD" tvg-logo="https://i.postimg.cc/kMhXRYJc/Sky-Showcase-2021-Logo.png" group-title="Entertainment",Sky Showcase HD
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692547.m3u8
 #EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyatlantichd.png" group-title="Entertainment",Sky Atlantic HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/489.ts
 #EXTINF:-1 tvg-id="reallives.uk" tvg-name="Sky Crime" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/reallives.png" group-title="Entertainment",Sky Crime
