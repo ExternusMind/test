@@ -37,10 +37,8 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/319.ts
 http://45.153.35.210:8000/play/UK_itv_3_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV 4" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv4hd.png" group-title="Entertainment",ITV 4
 http://45.153.35.210:8000/play/UK_itv_4_sd/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="ITV Be SD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itvbe.png" group-title="Entertainment",ITV Be SD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/317.ts
 #EXTINF:-1 tvg-id="itvbe.uk" tvg-name="ITV Be " tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itvbehd.png" group-title="Entertainment",ITV Be 
-https://hostcloud.network/live/aD8C1ETPQU28/842373/321.ts
+http://194.76.186.39:8000/play/a02j
 #EXTINF:-1 tvg-id="alibi.uk" tvg-name="Alibi HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/alibihd.png" group-title="Entertainment",Alibi HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/556.ts
 #EXTINF:-1 tvg-id="blaze.uk" tvg-name="BLAZE" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/blaze.png" group-title="Entertainment",BLAZE
@@ -96,13 +94,13 @@ http://194.76.186.39:8000/play/a05t
 #EXTINF:-1 tvg-id="mtv.uk" tvg-name="MTV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvhd.png" group-title="Entertainment",MTV HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/102836.ts
 #EXTINF:-1 tvg-id="5star.uk" tvg-name="5 Star" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/5star.png" group-title="Entertainment",5 Star
-https://hostcloud.network/live/aD8C1ETPQU28/842373/445.ts
+http://45.153.35.210:8000/play/a00n/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5 USA" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/5usa.png" group-title="Entertainment",5 USA
-https://hostcloud.network/live/aD8C1ETPQU28/842373/443.ts
+http://45.153.35.210:8000/play/a00m/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="5select.uk" tvg-name="5 Select" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/5select.png" group-title="Entertainment",5 Select
-https://hostcloud.network/live/aD8C1ETPQU28/842373/100619.ts
+http://45.153.35.210:8000/play/a00o/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="ParamountChannel.uk" tvg-name="5 Action" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/paramountchannelhd.png" group-title="Entertainment",5 Action
-https://hostcloud.network/live/aD8C1ETPQU28/842373/71699.ts
+http://45.153.35.210:8000/play/a00p/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pbsamerica.png" group-title="Entertainment",PBS America
 https://hostcloud.network/live/aD8C1ETPQU28/842373/274.ts
 #EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pick.png" group-title="Entertainment",Pick
