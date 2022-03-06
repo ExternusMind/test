@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One SD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbcone.png" group-title="Entertainment",BBC One SD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/103652.ts
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbcone.png" group-title="Entertainment",BBC One HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbconehd.png" group-title="Entertainment",BBC One FHD
@@ -141,6 +139,12 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/64711.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/152.ts
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",TLC HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/149.ts
+#EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media One HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-one-uk.png" group-title="Entertainment",Virgin Media One HD
+http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692475
+#EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media Two HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png" group-title="Entertainment",Virgin Media Two HD
+http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692477
+#EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media Three HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-three-uk.png" group-title="Entertainment",Virgin Media Three HD
+http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692479
 #EXTINF:-1 tvg-id="w.uk" tvg-name="W HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/whd.png" group-title="Entertainment",W HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/129.ts
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
