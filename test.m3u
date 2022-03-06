@@ -141,10 +141,10 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/152.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/149.ts
 #EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media One HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-one-uk.png" group-title="Entertainment",Virgin Media One HD
 http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692475
-#EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media Two HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png" group-title="Entertainment",Virgin Media Two HD
-http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692477
-#EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media Three HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-three-uk.png" group-title="Entertainment",Virgin Media Three HD
-http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692479
+#EXTINF:-1 tvg-id="VM2.uk" tvg-name="Virgin Media Two HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png" group-title="Entertainment",Virgin Media Two HD
+http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692476
+#EXTINF:-1 tvg-id="VM3.uk" tvg-name="Virgin Media Three HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-three-uk.png" group-title="Entertainment",Virgin Media Three HD
+http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692478
 #EXTINF:-1 tvg-id="w.uk" tvg-name="W HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/whd.png" group-title="Entertainment",W HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/129.ts
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
