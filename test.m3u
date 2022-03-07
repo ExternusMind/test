@@ -30,7 +30,7 @@ http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="Entertainment",ITV 2
 http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="Entertainment",ITV 2 HD
-http://194.76.186.39:8000/play/a041
+http://iptvtree.net:8080/F11368/c81b8877/690
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2hd.png" group-title="Entertainment",ITV 2 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/319.ts
 #EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv3hd.png" group-title="Entertainment",ITV 3
