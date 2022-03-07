@@ -10,13 +10,13 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/552.ts
 #EXTINF:-1 tvg-id="itv1.uk" tvg-name="ITV 1" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1
 http://45.153.35.210:8000/play/UK_itv_1_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1 HD
-http://194.76.186.39:8000/play/a04c
+http://iptvtree.net:8080/F11368/c81b8877/689
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv1hd.png" group-title="Entertainment",ITV 1 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/143.ts
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4.png" group-title="Entertainment",Channel 4
 http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4.png" group-title="Entertainment",Channel 4 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/390.ts
+http://iptvtree.net:8080/F11368/c81b8877/1120
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/389.ts
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5.png" group-title="Entertainment",Channel 5 HD
@@ -148,19 +148,25 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/129.ts
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
 https://hostcloud.network/live/aD8C1ETPQU28/842373/117.ts
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="Entertainment",AMC HD US
-http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/25565
+http://iptvtree.net:8080/F11368/c81b8877/751
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="Entertainment",Comedy Central HD US
-http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/25572
+http://iptvtree.net:8080/F11368/c81b8877/754
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="Entertainment",Bravo HD US
-http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/25570
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="Entertainment",TBS HD US
-http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/67567
+http://iptvtree.net:8080/F11368/c81b8877/2282
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="Entertainment",Oxygen HD US
+http://iptvtree.net:8080/F11368/c81b8877/6378
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="Entertainment",FX HD US
-http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/67637
+http://iptvtree.net:8080/F11368/c81b8877/758
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States" group-title="Entertainment",FXX HD US
-http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/67633
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",Freeform HD US
-http://ui.mrzutv.net:8080/Mrtinmartin/5CpEf6aMzW/67654
+http://iptvtree.net:8080/F11368/c81b8877/2330
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",Freeform HD US
+http://iptvtree.net:8080/F11368/c81b8877/2329
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",HBO HD US
+http://iptvtree.net:8080/F11368/c81b8877/2336
+#EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",USA Network HD US
+http://iptvtree.net:8080/F11368/c81b8877/3390
+#EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",VICE HD US
+http://iptvtree.net:8080/F11368/c81b8877/11452
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://www.dropbox.com/s/yp6mxb5u08ua6c2/animalplanethd.png?dl=1" group-title="Documentary",Animal Planet
 https://hostcloud.network/live/aD8C1ETPQU28/842373/434.ts
 #EXTINF:-1 tvg-id="court.us" tvg-name="Court TV" tvg-logo="https://www.dropbox.com/s/bxvp6t2sf4qbe68/300px-Court_TV_2019.png?dl=1" group-title="Documentary",Court TV
@@ -230,7 +236,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/150.ts
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC News HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News HD" tvg-logo="https://i.postimg.cc/T3H5x72k/Sky_News_2020.jpg" group-title="News",Sky News HD
-http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/692632.m3u8
+http://iptvtree.net:8080/F11368/c81b8877/1081
 #EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="Bloomberg 4K" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/bloomberg-live-events-us.png" group-title="News",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Cnn.uk" tvg-name="CNN HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/cnn-us.png" group-title="News",CNN HD
