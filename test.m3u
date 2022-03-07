@@ -52,7 +52,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/543.ts
 #EXTINF:-1 tvg-id="challenge.uk" tvg-name="Challenge" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/challenge.png" group-title="Entertainment",Challenge
 https://hostcloud.network/live/aD8C1ETPQU28/842373/100.ts
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave HD
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/692507.m3u8
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/692508.m3u8
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/83661.ts
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama HD
@@ -114,7 +114,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/244.ts
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyartshd.png" group-title="Entertainment",Sky Arts HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/237.ts
 #EXTINF:-1 tvg-id="sky1.uk" tvg-name="Sky Showcase HD" tvg-logo="https://i.postimg.cc/kMhXRYJc/Sky-Showcase-2021-Logo.png" group-title="Entertainment",Sky Showcase HD
-http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692547
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/692547.m3u8
 #EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyatlantichd.png" group-title="Entertainment",Sky Atlantic HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/489.ts
 #EXTINF:-1 tvg-id="reallives.uk" tvg-name="Sky Crime" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/reallives.png" group-title="Entertainment",Sky Crime
@@ -138,33 +138,29 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/152.ts
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",TLC HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/149.ts
 #EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media One HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-one-uk.png" group-title="Entertainment",Virgin Media One HD
-http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692475
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/692475.m3u8
 #EXTINF:-1 tvg-id="VM2.uk" tvg-name="Virgin Media Two HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png" group-title="Entertainment",Virgin Media Two HD
-http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692476
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/692477.m3u8
 #EXTINF:-1 tvg-id="VM3.uk" tvg-name="Virgin Media Three HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-three-uk.png" group-title="Entertainment",Virgin Media Three HD
-http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692478
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/692479.m3u8
 #EXTINF:-1 tvg-id="w.uk" tvg-name="W HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/whd.png" group-title="Entertainment",W HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/129.ts
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
 https://hostcloud.network/live/aD8C1ETPQU28/842373/117.ts
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="Entertainment",AMC HD US
-http://mytv.fun:8080/tommy/137xjytsyw/684738
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/684738.m3u8
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="Entertainment",Comedy Central HD US
-http://mytv.fun:8080/tommy/137xjytsyw/4882
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/4882.m3u8
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="Entertainment",Bravo HD US
-http://mytv.fun:8080/tommy/137xjytsyw/679201
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/4883.m3u8
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="Entertainment",TBS HD US
-http://mytv.fun:8080/tommy/137xjytsyw/677201
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/freeform-us.png" group-title="Entertainment",Freeform HD US
-http://mytv.fun:8080/tommy/137xjytsyw/677202
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/677201.m3u8
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="Entertainment",FX HD US
-http://mytv.fun:8080/tommy/137xjytsyw/13763
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/13763.m3u8
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States" group-title="Entertainment",FXX HD US
-http://mytv.fun:8080/tommy/137xjytsyw/13756
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/13756.m3u8
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",HBO HD US
-http://mytv.fun:8080/tommy/137xjytsyw/685038
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/showtime-us.png" group-title="Entertainment",Showtime HD US
-http://mytv.fun:8080/tommy/137xjytsyw/4926
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/685038.m3u8
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://www.dropbox.com/s/yp6mxb5u08ua6c2/animalplanethd.png?dl=1" group-title="Documentary",Animal Planet
 https://hostcloud.network/live/aD8C1ETPQU28/842373/434.ts
 #EXTINF:-1 tvg-id="court.us" tvg-name="Court TV" tvg-logo="https://www.dropbox.com/s/bxvp6t2sf4qbe68/300px-Court_TV_2019.png?dl=1" group-title="Documentary",Court TV
@@ -234,7 +230,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/150.ts
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC News HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News HD" tvg-logo="https://i.postimg.cc/T3H5x72k/Sky_News_2020.jpg" group-title="News",Sky News HD
-http://mytv.fun:8080/bkjdxj0zj/asdzxcrfvt/692631
+http://mytv.fun:8080/live/eex6xe24y/80jkmmxjid/692632.m3u8
 #EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="Bloomberg 4K" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/bloomberg-live-events-us.png" group-title="News",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Cnn.uk" tvg-name="CNN HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/cnn-us.png" group-title="News",CNN HD
