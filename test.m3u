@@ -31,9 +31,9 @@ http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8?HasBahCa.m3u8
 http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/4883
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2hd.png" group-title="Entertainment",ITV 2 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/319.ts
-#EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv3hd.png" group-title="Entertainment",ITV 3
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv3hd.png" group-title="Entertainment",ITV 3 HD
 http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/4882
-#EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV 4" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv4hd.png" group-title="Entertainment",ITV 4
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV 4" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv4hd.png" group-title="Entertainment",ITV 4 HD
 http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/4881
 #EXTINF:-1 tvg-id="itvbe.uk" tvg-name="ITV Be " tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itvbehd.png" group-title="Entertainment",ITV Be 
 http://x365.ml:80/SCPPVYNZ/SSFFBAZBKE/4880
