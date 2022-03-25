@@ -18,7 +18,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/390.ts
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/389.ts
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5.png" group-title="Entertainment",Channel 5 HD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100659
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/31015
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5hd.png" group-title="Entertainment",Channel 5 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/394.ts
 #EXTINF:-1 tvg-id="bbc3.uk" tvg-name="BBC Three HD" tvg-logo="https://limitlesstv.xyz/website/Logos/Logos/bbcthree.png" group-title="Entertainment",BBC Three HD
@@ -28,7 +28,7 @@ http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="Entertainment",ITV 2
 http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="Entertainment",ITV 2 HD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100654
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/30877
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2hd.png" group-title="Entertainment",ITV 2 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/319.ts
 #EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv3hd.png" group-title="Entertainment",ITV 3 HD
@@ -50,7 +50,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/543.ts
 #EXTINF:-1 tvg-id="challenge.uk" tvg-name="Challenge" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/challenge.png" group-title="Entertainment",Challenge
 https://hostcloud.network/live/aD8C1ETPQU28/842373/100.ts
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave HD
-http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692507.m3u8
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/82758
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/83661.ts
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama HD
@@ -110,7 +110,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/244.ts
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyartshd.png" group-title="Entertainment",Sky Arts HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/237.ts
 #EXTINF:-1 tvg-id="sky1.uk" tvg-name="Sky Showcase HD" tvg-logo="https://i.postimg.cc/kMhXRYJc/Sky-Showcase-2021-Logo.png" group-title="Entertainment",Sky Showcase HD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100806
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/112446
 #EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyatlantichd.png" group-title="Entertainment",Sky Atlantic HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/489.ts
 #EXTINF:-1 tvg-id="reallives.uk" tvg-name="Sky Crime" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/reallives.png" group-title="Entertainment",Sky Crime
