@@ -8,7 +8,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbctwohd.png" group-title="Entertainment",BBC Two FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/552.ts
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1 HD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100653
+http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/30991
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv1hd.png" group-title="Entertainment",ITV 1 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/143.ts
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4.png" group-title="Entertainment",Channel 4 HD
