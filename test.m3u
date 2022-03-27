@@ -11,8 +11,6 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/552.ts
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100653
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv1hd.png" group-title="Entertainment",ITV 1 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/143.ts
-#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4.png" group-title="Entertainment",Channel 4
-http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4.png" group-title="Entertainment",Channel 4 HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/390.ts
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 FHD
@@ -25,8 +23,6 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/394.ts
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="bbc4.uk" tvg-name="BBC Four HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbc4.png" group-title="Entertainment",BBC Four HD
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="Entertainment",ITV 2
-http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="Entertainment",ITV 2 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100654
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2hd.png" group-title="Entertainment",ITV 2 FHD
@@ -60,9 +56,9 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/380.ts
 #EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="Comedy Central Extra" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycentralextra.png" group-title="Entertainment",Comedy Central Extra
 https://hostcloud.network/live/aD8C1ETPQU28/842373/374.ts
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 HD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100660
-#EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/353.ts
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 FHD
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100660
 #EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Entertainment",E! UK
 https://hostcloud.network/live/aD8C1ETPQU28/842373/360.ts
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/edenhd.png" group-title="Entertainment",Eden HD
@@ -79,8 +75,6 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/83656.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/89116.ts
 #EXTINF:-1 tvg-id="londonlive.uk" tvg-name="London Live" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/londonlive.png" group-title="Entertainment",London Live
 https://hostcloud.network/live/aD8C1ETPQU28/842373/101467.ts
-#EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/more4hd.png" group-title="Entertainment",More 4
-http://45.153.35.210:8000/play/UK_more_4_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/more4hd.png" group-title="Entertainment",More 4 HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/291.ts
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4 Seven" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/4sevenhd.png" group-title="Entertainment",4 Seven
@@ -123,8 +117,6 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/204.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/241.ts
 #EXTINF:-1 tvg-id="sky2.uk" tvg-name="Sky Replay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Skyreplay2020.png" group-title="Entertainment",Sky Replay
 https://hostcloud.network/live/aD8C1ETPQU28/842373/172.ts
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/s4chd.png" group-title="Entertainment",S4C HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/229.ts
 #EXTINF:-1 tvg-id="SonyChannel.uk" tvg-name="Great! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Entertainment",Great! TV
 https://hostcloud.network/live/aD8C1ETPQU28/842373/125.ts
 #EXTINF:-1 tvg-id="STV.uk" tvg-name="STV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/stvhd.png" group-title="Entertainment",STV HD
@@ -144,7 +136,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/129.ts
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
 https://hostcloud.network/live/aD8C1ETPQU28/842373/117.ts
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="Entertainment",AMC HD US
-http://iptvtree.net:8080/F11368/c81b8877/751
+http://xtremeport.com:80/nogaj4323/tony32323/175789.m3u8
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="Entertainment",Comedy Central HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175812.m3u8
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="Entertainment",Bravo HD US
@@ -156,13 +148,13 @@ http://xtremeport.com:80/nogaj4323/tony32323/176033.m3u8
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States" group-title="Entertainment",FXX HD US
 http://xtremeport.com:80/nogaj4323/tony32323/176039.m3u8
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",Freeform HD US
-http://iptvtree.net:8080/F11368/c81b8877/2329
+http://xtremeport.com:80/nogaj4323/tony32323/175853.m3u8
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",HBO HD US
-http://iptvtree.net:8080/F11368/c81b8877/2336
+http://xtremeport.com:80/nogaj4323/tony32323/176044.m3u8
 #EXTINF:-1 tvg-id="travel.us" tvg-name="Travel Channel US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/travel-channel-us.png" group-title="Entertainment",Travel Channel US
 http://xtremeport.com:80/nogaj4323/tony32323/228309.m3u8
 #EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",USA Network HD US
-http://iptvtree.net:8080/F11368/c81b8877/3390
+http://xtremeport.com:80/nogaj4323/tony32323/175967.m3u8
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",VICE HD US
 http://iptvtree.net:8080/F11368/c81b8877/11452
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://www.dropbox.com/s/yp6mxb5u08ua6c2/animalplanethd.png?dl=1" group-title="Documentary",Animal Planet
