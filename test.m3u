@@ -24,7 +24,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_
 #EXTINF:-1 tvg-id="bbc4.uk" tvg-name="BBC Four HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbc4.png" group-title="Entertainment",BBC Four HD
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="Entertainment",ITV 2 HD
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/30877
+http://mytv.fun:8080/wu8qogdbpr/khg8s1dqa5/692487
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2hd.png" group-title="Entertainment",ITV 2 FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/319.ts
 #EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv3hd.png" group-title="Entertainment",ITV 3 HD
@@ -46,7 +46,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/543.ts
 #EXTINF:-1 tvg-id="challenge.uk" tvg-name="Challenge" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/challenge.png" group-title="Entertainment",Challenge
 https://hostcloud.network/live/aD8C1ETPQU28/842373/100.ts
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave HD
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/82758
+http://mytv.fun:8080/wu8qogdbpr/khg8s1dqa5/692508
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/83661.ts
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama HD
