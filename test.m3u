@@ -135,33 +135,33 @@ http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692479.m3u8
 https://hostcloud.network/live/aD8C1ETPQU28/842373/129.ts
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
 https://hostcloud.network/live/aD8C1ETPQU28/842373/117.ts
-#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="Entertainment",AMC HD US
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States" group-title="Entertainment",AMC HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175789.m3u8
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="Entertainment",Comedy Central HD US
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States" group-title="Entertainment",Comedy Central HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175812.m3u8
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="Entertainment",CMT HD US
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States" group-title="Entertainment",CMT HD US
 http://xtremeport.com:80/nogaj4323/tony32323/177079.m3u8
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="Entertainment",Bravo HD US
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="United States" group-title="Entertainment",Bravo HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175805.m3u8
-#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="Entertainment",Oxygen HD US
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="United States" group-title="Entertainment",Oxygen HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175911.m3u8
-#EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",Fuse HD US
+#EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Fuse HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175857.m3u8
-#EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="Entertainment",FX HD US
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="United States" group-title="Entertainment",FX HD US
 http://xtremeport.com:80/nogaj4323/tony32323/176033.m3u8
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States" group-title="Entertainment",FXX HD US
 http://xtremeport.com:80/nogaj4323/tony32323/176039.m3u8
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",Freeform HD US
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Freeform HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175853.m3u8
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",HBO HD US
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",HBO HD US
 http://xtremeport.com:80/nogaj4323/tony32323/176044.m3u8
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",TBS HD US
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",TBS HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175938.m3u8
-#EXTINF:-1 tvg-id="travel.us" tvg-name="Travel Channel US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/travel-channel-us.png" group-title="Entertainment",Travel Channel US
+#EXTINF:-1 tvg-id="travel.us" tvg-name="Travel Channel US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/travel-channel-us.png" group-title="United States" group-title="Entertainment",Travel Channel US
 http://xtremeport.com:80/nogaj4323/tony32323/228309.m3u8
-#EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="Entertainment",USA Network HD US
+#EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",USA Network HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175967.m3u8
-#EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",VICE HD US
+#EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="United States" group-title="Entertainment",VICE HD US
 http://xtremeport.com:80/nogaj4323/tony32323/175971.m3u8
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://www.dropbox.com/s/yp6mxb5u08ua6c2/animalplanethd.png?dl=1" group-title="Documentary",Animal Planet
 https://hostcloud.network/live/aD8C1ETPQU28/842373/434.ts
@@ -181,8 +181,8 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/372.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/365.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery ID" tvg-logo="https://www.dropbox.com/s/vnwa00wki00hqtt/idinvestigationdiscovery.png?dl=1" group-title="Documentary",Investigation Discovery ID
 https://hostcloud.network/live/aD8C1ETPQU28/842373/329.ts
-#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="Love Nature" tvg-logo="https://www.dropbox.com/s/aaxnhdnn3hwelru/lovenature.png?dl=1" group-title="Documentary",Love Nature
-https://hostcloud.network/live/aD8C1ETPQU28/842373/71938.ts
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="Love Nature" tvg-logo="https://www.dropbox.com/s/aaxnhdnn3hwelru/lovenature.png?dl=1" group-title="Documentary",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD" tvg-logo="https://www.dropbox.com/s/wpyx0cfmju86foo/natgeo.png?dl=1" group-title="Documentary",National Geographic HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/271.ts
 #EXTINF:-1 tvg-id="natgeo.uk" tvg-name="National Geographic FHD" tvg-logo="https://www.dropbox.com/s/2qcjbdfq5wqjylu/natgeohd.png?dl=1" group-title="Documentary",National Geographic FHD
