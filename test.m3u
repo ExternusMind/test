@@ -46,7 +46,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/543.ts
 #EXTINF:-1 tvg-id="challenge.uk" tvg-name="Challenge" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/challenge.png" group-title="Entertainment",Challenge
 https://hostcloud.network/live/aD8C1ETPQU28/842373/100.ts
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave HD
-http://tunestream.me:8080/GDNXhx3YUh/0RKrawefHR/934
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100797
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave FHD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/83661.ts
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama HD
@@ -171,7 +171,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/104143.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/387.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel HD" tvg-logo="https://www.dropbox.com/s/xnud7b66sxd1p90/discoverychannelhd.png?dl=1" group-title="Documentary",Discovery Channel HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/383.ts
-#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="Discovery DMAX" tvg-logo="https://www.dropbox.com/s/j5ssmgzegvve42u/dmax.png?dl=1" group-title="Documentary",Discovery DMAX
+#EXTINF:-1 tvg-id="discoverydmax.uk" tvg-name="DMAX" tvg-logo="https://www.dropbox.com/s/j5ssmgzegvve42u/dmax.png?dl=1" group-title="Documentary",DMAX
 https://hostcloud.network/live/aD8C1ETPQU28/842373/386.ts
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" tvg-logo="https://www.dropbox.com/s/n5yjsh2e4h1hmvg/discoveryhistory.png?dl=1" group-title="Documentary",Discovery History
 https://hostcloud.network/live/aD8C1ETPQU28/842373/376.ts
@@ -182,7 +182,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/365.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery ID" tvg-logo="https://www.dropbox.com/s/vnwa00wki00hqtt/idinvestigationdiscovery.png?dl=1" group-title="Documentary",Investigation Discovery ID
 https://hostcloud.network/live/aD8C1ETPQU28/842373/329.ts
 #EXTINF:-1 tvg-id="lovenature.ca" tvg-name="Love Nature" tvg-logo="https://www.dropbox.com/s/aaxnhdnn3hwelru/lovenature.png?dl=1" group-title="Documentary",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD" tvg-logo="https://www.dropbox.com/s/wpyx0cfmju86foo/natgeo.png?dl=1" group-title="Documentary",National Geographic HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/271.ts
 #EXTINF:-1 tvg-id="natgeo.uk" tvg-name="National Geographic FHD" tvg-logo="https://www.dropbox.com/s/2qcjbdfq5wqjylu/natgeohd.png?dl=1" group-title="Documentary",National Geographic FHD
