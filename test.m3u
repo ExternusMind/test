@@ -367,8 +367,10 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/103112
 https://hostcloud.network/live/aD8C1ETPQU28/842373/165.ts
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://www.dropbox.com/s/uoupqjxmvi838si/skysportsmixhd.png?dl=1" group-title="Sky Sports",Sky Sports Mix FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/103109
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://www.dropbox.com/s/38ghbh3zgfrq994/skysportsplhd.png?dl=1" group-title="Sky Sports",Sky Sports Premier League HD
+https://hostcloud.network/live/aD8C1ETPQU28/842373/168.ts
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://www.dropbox.com/s/38ghbh3zgfrq994/skysportsplhd.png?dl=1" group-title="Sky Sports",Sky Sports Premier League FHD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/101045
+https://hostcloud.network/live/aD8C1ETPQU28/842373/85430.ts
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing HD" tvg-logo="https://www.dropbox.com/s/skuqp1su9lpiv5d/skyspracinghd.png?dl=1" group-title="Sky Sports",Sky Sports Racing HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/103838.ts
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://www.dropbox.com/s/skuqp1su9lpiv5d/skyspracinghd.png?dl=1" group-title="Sky Sports",Sky Sports Racing FHD
