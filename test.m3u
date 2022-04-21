@@ -125,6 +125,8 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/64711.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/152.ts
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",TLC HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/149.ts
+#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",That's TV
+http://iptvtree.net:8080/F11368/c81b8877/286769
 #EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media One HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-one-uk.png" group-title="Entertainment",Virgin Media One HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692475.m3u8
 #EXTINF:-1 tvg-id="VM2.uk" tvg-name="Virgin Media Two HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-two-uk.png" group-title="Entertainment",Virgin Media Two HD
@@ -146,7 +148,7 @@ http://smartntv.pro:25461/Munja-nova8847G/gy5DXMRfMkf6S1G6ySNuuZ8PWn731/6969
 #EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="United States" group-title="Entertainment",Oxygen HD US
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/51015.m3u8
 #EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Fuse HD US
-http://xtremeport.com:80/nogaj4323/tony32323/175857.m3u8
+http://iptvtree.net:8080/F11368/c81b8877/6361
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="United States" group-title="Entertainment",FX HD US
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/13763.m3u8
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States" group-title="Entertainment",FXX HD US
@@ -315,8 +317,6 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/198.ts
 https://hostcloud.network/live/aD8C1ETPQU28/842373/202.ts
 #EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD" tvg-logo="https://www.dropbox.com/s/mgkcx02fdf01akc/tcmhd.png?dl=1" group-title="Cinema",TCM HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/153.ts
-#EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4" tvg-logo="https://www.dropbox.com/s/o2wf11o4v6j8s9x/film4.png?dl=1" group-title="Cinema",Film 4
-http://45.153.35.210:8000/play/UK_film_4_sd/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4 HD" tvg-logo="https://www.dropbox.com/s/o2wf11o4v6j8s9x/film4.png?dl=1" group-title="Cinema",Film 4 HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/358.ts
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="FILM 4 FHD" tvg-logo="https://www.dropbox.com/s/tvh0lqp2d3sgfow/film4hd.png?dl=1" group-title="Cinema",FILM 4 FHD
