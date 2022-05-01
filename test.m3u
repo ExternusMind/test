@@ -1,16 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="bbc1.uk" tvg-name="BBC One HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbcone.png" group-title="Entertainment",BBC One HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="BBC1.uk" tvg-name="BBC One FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbconehd.png" group-title="Entertainment",BBC One FHD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/437.ts
 #EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbctwo.png" group-title="Entertainment",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbctwohd.png" group-title="Entertainment",BBC Two FHD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/552.ts
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100653
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv1hd.png" group-title="Entertainment",ITV 1 FHD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/143.ts
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4.png" group-title="Entertainment",Channel 4 HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/390.ts
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 FHD
@@ -23,9 +17,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100659
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="bbc4.uk" tvg-name="BBC Four HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/bbc4.png" group-title="Entertainment",BBC Four HD
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="ITV 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2.png" group-title="Entertainment",ITV 2 HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/316.ts
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2hd.png" group-title="Entertainment",ITV 2 FHD
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv2hd.png" group-title="Entertainment",ITV 2 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100654
 #EXTINF:-1 tvg-id="itv3.uk" tvg-name="ITV 3" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv3hd.png" group-title="Entertainment",ITV 3 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100655
@@ -34,7 +26,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100656
 #EXTINF:-1 tvg-id="itvbe.uk" tvg-name="ITV Be " tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itvbehd.png" group-title="Entertainment",ITV Be 
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100657
 #EXTINF:-1 tvg-id="alibi.uk" tvg-name="Alibi HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/alibihd.png" group-title="Entertainment",Alibi HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/556.ts
+http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/4051
 #EXTINF:-1 tvg-id="blaze.uk" tvg-name="BLAZE" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/blaze.png" group-title="Entertainment",BLAZE
 https://hostcloud.network/live/aD8C1ETPQU28/842373/1031.ts
 #EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="CBS Drama" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsdrama.png" group-title="Entertainment",CBS Drama
@@ -72,7 +64,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/522.ts
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/goldhd.png" group-title="Entertainment",Gold HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100800
 #EXTINF:-1 tvg-id="home.uk" tvg-name="HGTV" tvg-logo="https://www.floorsandingexperts.co.uk/wp-content/uploads/hgtv-logo-with-r.png" group-title="Entertainment",HGTV
-https://hostcloud.network/live/aD8C1ETPQU28/842373/89116.ts
+http://server.sibfungold.info:8080/pacha-man1/81CWlT7aD5/2911
 #EXTINF:-1 tvg-id="londonlive.uk" tvg-name="London Live" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/londonlive.png" group-title="Entertainment",London Live
 https://hostcloud.network/live/aD8C1ETPQU28/842373/101467.ts
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/more4hd.png" group-title="Entertainment",More 4 HD
@@ -108,9 +100,9 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100806
 #EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyatlantichd.png" group-title="Entertainment",Sky Atlantic HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100953
 #EXTINF:-1 tvg-id="reallives.uk" tvg-name="Sky Crime" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/reallives.png" group-title="Entertainment",Sky Crime
-https://hostcloud.network/live/aD8C1ETPQU28/842373/494.ts
+http://itsidletime.xyz:25461/Kf5MXkcskw/phwOVG7le8/53969
 #EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy" tvg-logo="https://i0.wp.com/www.geektown.co.uk/wp-content/uploads/2020/01/skycomedy.jpg?fit=850%2C445&ssl=1" group-title="Entertainment",Sky Comedy
-https://hostcloud.network/live/aD8C1ETPQU28/842373/139.ts
+http://itsidletime.xyz:25461/Kf5MXkcskw/phwOVG7le8/53968
 #EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witness HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skywitnesshd.png" group-title="Entertainment",Sky Witness HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100966
 #EXTINF:-1 tvg-id="Skymax.uk" tvg-name="Sky Max HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/sky1hd.png" group-title="Entertainment",Sky Max HD
@@ -330,11 +322,11 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/71397.ts
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://www.dropbox.com/s/24a1izkpur13mc9/skysportsnewshd.png?dl=1" group-title="Sky Sports",Sky Sports News HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/8421.ts
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://www.dropbox.com/s/24a1izkpur13mc9/skysportsnewshd.png?dl=1" group-title="Sky Sports",Sky Sports News FHD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/71412.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/101042
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports NFL HD" tvg-logo="https://www.dropbox.com/s/qxeeik95dr8yg9l/skysportsactionhd.png?dl=1" group-title="Sky Sports",Sky Sports Action HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/211.ts
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports NFL FHD" tvg-logo="https://www.dropbox.com/s/qxeeik95dr8yg9l/skysportsactionhd.png?dl=1" group-title="Sky Sports",Sky Sports Action FHD
-http://c.5giptv.net:8880/live/841726/555130/481928.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/101043
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena HD" tvg-logo="https://www.dropbox.com/s/lf1lajhi5ffnjz5/skysportsarenahd.png?dl=1" group-title="Sky Sports",Sky Sports Arena HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/220.ts
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena FHD" tvg-logo="https://www.dropbox.com/s/lf1lajhi5ffnjz5/skysportsarenahd.png?dl=1" group-title="Sky Sports",Sky Sports Arena FHD
@@ -342,23 +334,23 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/101049
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket HD" tvg-logo="https://www.dropbox.com/s/o23qbydgzxhiuiq/skysportscrickethd.png?dl=1" group-title="Sky Sports",Sky Sports Cricket HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/213.ts
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://www.dropbox.com/s/o23qbydgzxhiuiq/skysportscrickethd.png?dl=1" group-title="Sky Sports",Sky Sports Cricket FHD
-http://c.5giptv.net:8880/live/841726/555130/10129.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/101050
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="https://www.dropbox.com/s/uewttlq11ww48fk/skysportsf1hd.png?dl=1" group-title="Sky Sports",Sky Sports F1 HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/215.ts
 #EXTINF:-1 tvg-id="UK: SkySp F1" tvg-name="Sky Sports F1 FHD" tvg-logo="https://www.dropbox.com/s/uewttlq11ww48fk/skysportsf1hd.png?dl=1" group-title="Sky Sports",Sky Sports F1 FHD
-http://c.5giptv.net:8880/live/841726/555130/10130.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/101051
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://www.dropbox.com/s/baqaxmna432btdz/skysportsfootballhd.png?dl=1" group-title="Sky Sports",Sky Sports Football HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/159.ts
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://www.dropbox.com/s/baqaxmna432btdz/skysportsfootballhd.png?dl=1" group-title="Sky Sports",Sky Sports Football FHD
-http://c.5giptv.net:8880/live/841726/555130/481984.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/101044
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="https://www.dropbox.com/s/5x8xjfd3ep1rm8u/skysportsgolfhd.png?dl=1" group-title="Sky Sports",Sky Sports Golf HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/185.ts
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://www.dropbox.com/s/5x8xjfd3ep1rm8u/skysportsgolfhd.png?dl=1" group-title="Sky Sports",Sky Sports Golf FHD
-http://c.5giptv.net:8880/live/841726/555130/481985.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/101052
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://www.dropbox.com/s/w712magm07litah/skysportsmaineventhd.png?dl=1" group-title="Sky Sports",Sky Sports Main Event HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/173.ts
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://www.dropbox.com/s/w712magm07litah/skysportsmaineventhd.png?dl=1" group-title="Sky Sports",Sky Sports Main Event FHD
-http://c.5giptv.net:8880/live/841726/555130/10132.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/103112
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="https://www.dropbox.com/s/uoupqjxmvi838si/skysportsmixhd.png?dl=1" group-title="Sky Sports",Sky Sports Mix HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/165.ts
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://www.dropbox.com/s/uoupqjxmvi838si/skysportsmixhd.png?dl=1" group-title="Sky Sports",Sky Sports Mix FHD
@@ -366,7 +358,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/103109
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://www.dropbox.com/s/38ghbh3zgfrq994/skysportsplhd.png?dl=1" group-title="Sky Sports",Sky Sports Premier League HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/168.ts
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://www.dropbox.com/s/38ghbh3zgfrq994/skysportsplhd.png?dl=1" group-title="Sky Sports",Sky Sports Premier League FHD
-http://c.5giptv.net:8880/live/841726/555130/117417.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/101045
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing HD" tvg-logo="https://www.dropbox.com/s/skuqp1su9lpiv5d/skyspracinghd.png?dl=1" group-title="Sky Sports",Sky Sports Racing HD
 https://hostcloud.network/live/aD8C1ETPQU28/842373/103838.ts
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://www.dropbox.com/s/skuqp1su9lpiv5d/skyspracinghd.png?dl=1" group-title="Sky Sports",Sky Sports Racing FHD
