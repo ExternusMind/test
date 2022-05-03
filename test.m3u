@@ -127,34 +127,36 @@ http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692479.m3u8
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100811
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692568.m3u8
+#EXTINF:-1 tvg-id="abc.us" tvg-name="ABC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States" group-title="Entertainment",ABC HD US
+http://mytv.fun:8080/tommy/137xjytsyw/4925
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States" group-title="Entertainment",AMC HD US
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/59958
+http://mytv.fun:8080/tommy/137xjytsyw/684738
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States" group-title="Entertainment",Comedy Central HD US
 http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/362
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States" group-title="Entertainment",CMT HD US
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/60008
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="United States" group-title="Entertainment",Bravo HD US
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/65443
+#EXTINF:-1 tvg-id="starz.us" tvg-name="Starz HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="United States" group-title="Entertainment",Starz HD US
+http://mytv.fun:8080/tommy/137xjytsyw/678450
 #EXTINF:-1 tvg-id="oxygen.us" tvg-name="Oxygen HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="United States" group-title="Entertainment",Oxygen HD US
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/65422
+http://mytv.fun:8080/tommy/137xjytsyw/51015
 #EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Fuse HD US
 http://iptvtree.net:8080/F11368/c81b8877/6361
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="United States" group-title="Entertainment",FX HD US
 http://mytv.fun:8080/tommy/137xjytsyw/13763
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States" group-title="Entertainment",FXX HD US
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1591
+http://mytv.fun:8080/tommy/137xjytsyw/13756
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Freeform HD US
 http://mytv.fun:8080/tommy/137xjytsyw/677202
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",HBO HD US
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35801
+http://mytv.fun:8080/tommy/137xjytsyw/685038
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Showtime HD US
+http://mytv.fun:8080/tommy/137xjytsyw/4926
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",TBS HD US
 http://00322.xyz:8000/wilmen1972/5GSAS1XHFN/131241
-#EXTINF:-1 tvg-id="travel.us" tvg-name="Travel Channel US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/travel-channel-us.png" group-title="United States" group-title="Entertainment",Travel Channel US
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/65414
 #EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",USA Network HD US
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/109229
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="United States" group-title="Entertainment",VICE HD US
-http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/667813.m3u8
+http://mytv.fun:8080/tommy/137xjytsyw/667813
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://www.dropbox.com/s/yp6mxb5u08ua6c2/animalplanethd.png?dl=1" group-title="Documentary",Animal Planet HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100764
 #EXTINF:-1 tvg-id="court.us" tvg-name="Court TV" tvg-logo="https://www.dropbox.com/s/bxvp6t2sf4qbe68/300px-Court_TV_2019.png?dl=1" group-title="Documentary",Court TV
