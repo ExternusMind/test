@@ -130,7 +130,7 @@ http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692568.m3u8
 #EXTINF:-1 tvg-id="abc.us" tvg-name="ABC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States" group-title="Entertainment",ABC HD US
 http://mytv.fun:8080/tommy/137xjytsyw/4925
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States" group-title="Entertainment",AMC HD US
-http://mytv.fun:8080/tommy/137xjytsyw/684738
+https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States" group-title="Entertainment",Comedy Central HD US
 http://eightspeed.club:8080/lakerican@gmail.com/xtFxr7GDmz/362
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States" group-title="Entertainment",CMT HD US
@@ -198,13 +198,15 @@ http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692593.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cartoonito.png" group-title="Kids",Cartoonito
 https://hostcloud.network/live/aD8C1ETPQU28/842373/400.ts
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cartoonnetworkhd.png" group-title="Kids",Cartoon Network HD
-http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692595.m3u8
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100912
 #EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbbchd.png" group-title="Kids",CBBC HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692373.m3u8
 #EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbeebieshd.png" group-title="Kids",CBeebies
 https://hostcloud.network/live/aD8C1ETPQU28/842373/545.ts
 #EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/citv.png" group-title="Kids",CITV HD
-https://hostcloud.network/live/aD8C1ETPQU28/842373/396.ts
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100677
+#EXTINF:-1 tvg-id="disneychannel.uk" tvg-name="Disney Channel HD" tvg-logo="http://logourl.net/4KOTTLOGO/UNITED-KINGDOM/DISNEYCHANNEL.png" group-title="Kids",Disney Channel HD
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100913
 #EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="Nick HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/nickelodeonhd.png" group-title="Kids",Nick HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692601.m3u8
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr Too" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/nickjrtoo.png" group-title="Kids",Nick Jr Too
@@ -307,7 +309,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100946
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100967
 #EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4 HD" tvg-logo="https://www.dropbox.com/s/o2wf11o4v6j8s9x/film4.png?dl=1" group-title="Cinema",Film 4 HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692434.m3u8
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="FILM 4 FHD" tvg-logo="https://www.dropbox.com/s/tvh0lqp2d3sgfow/film4hd.png?dl=1" group-title="Cinema",FILM 4 FHD
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 FHD" tvg-logo="https://www.dropbox.com/s/tvh0lqp2d3sgfow/film4hd.png?dl=1" group-title="Cinema",Film 4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100951
 #EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="Horror Channel" tvg-logo="https://www.dropbox.com/s/m4bdnmaooal7n3i/horrorchannel.png?dl=1" group-title="Cinema",Horror Channel
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100970
