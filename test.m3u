@@ -5,12 +5,8 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100653
-#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4.png" group-title="Entertainment",Channel 4 HD
-http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692499.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100658
-#EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5.png" group-title="Entertainment",Channel 5 HD
-http://pro.viponetv.com:25443/V5zmR0YpO4cr/tyLX8KDi5T/31015
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5hd.png" group-title="Entertainment",Channel 5 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100659
 #EXTINF:-1 tvg-id="bbc3.uk" tvg-name="BBC Three HD" tvg-logo="https://limitlesstv.xyz/website/Logos/Logos/bbcthree.png" group-title="Entertainment",BBC Three HD
