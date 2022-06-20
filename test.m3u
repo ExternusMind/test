@@ -233,8 +233,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playli
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/
 #EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxhits.png" group-title="Music",Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-id="ChartShow.uk" tvg-name="Chart Show TV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/chartshowtv.png" group-title="Music",Chart Show TV
-https://hostcloud.network/live/aD8C1ETPQU28/842373/393.ts
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/clublandtv.png" group-title="Music",Clubland TV
 http://line.thesmartiptv.com:900/2863259172/6796177544/191559
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang!" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/kerrang.png" group-title="Music",Kerrang!
