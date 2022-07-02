@@ -55,8 +55,6 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100833
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100704
 #EXTINF:-1 tvg-id="foodxp.uk" tvg-name="Foodxp" tvg-logo="https://1.bp.blogspot.com/-YTbXSLKzBds/XTDONmhCFZI/AAAAAAAAV5M/rNTTiqTp4WkXNg-YftE7LkElY3gD9cptACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_20190718-205243_Chrome.jpg" group-title="Entertainment",Foodxp
 http://tv365.me:900/7439929587/4879165436/189884
-#EXTINF:-1 tvg-id="ForcesTV.uk" tvg-name="Forces TV" tvg-logo="http://presentationarchive.com/forcestv/ident-f.jpg" group-title="Entertainment",Forces TV
-http://tv365.me:900/7439929587/4879165436/400230369
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/goldhd.png" group-title="Entertainment",Gold HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100800
 #EXTINF:-1 tvg-id="home.uk" tvg-name="HGTV" tvg-logo="https://www.floorsandingexperts.co.uk/wp-content/uploads/hgtv-logo-with-r.png" group-title="Entertainment",HGTV
@@ -96,11 +94,11 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100937
 #EXTINF:-1 tvg-id="sky1.uk" tvg-name="Sky Showcase HD" tvg-logo="https://i.postimg.cc/kMhXRYJc/Sky-Showcase-2021-Logo.png" group-title="Entertainment",Sky Showcase HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100806
 #EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyatlantichd.png" group-title="Entertainment",Sky Atlantic HD
-https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3KuCZ9ScqNOC5QCyMSVGGBjJKUbOzsi_f-Q-ZBKuDVE8
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692553.m3u8
 #EXTINF:-1 tvg-id="reallives.uk" tvg-name="Sky Crime" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/reallives.png" group-title="Entertainment",Sky Crime
 http://itsidletime.xyz:25461/Kf5MXkcskw/phwOVG7le8/53969
 #EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy" tvg-logo="https://i0.wp.com/www.geektown.co.uk/wp-content/uploads/2020/01/skycomedy.jpg?fit=850%2C445&ssl=1" group-title="Entertainment",Sky Comedy
-https://lb.privatevps.org/play/z8AAnFOMysZeerWKmSvG3Ay4VyxKdWYztIaoM3AmZbwQVm66M7mqSF72-fzK8yab
+http://tv365.me:900/7439929587/4879165436/191468
 #EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witness HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skywitnesshd.png" group-title="Entertainment",Sky Witness HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100966
 #EXTINF:-1 tvg-id="Skymax.uk" tvg-name="Sky Max HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/sky1hd.png" group-title="Entertainment",Sky Max HD
@@ -150,7 +148,7 @@ https://vipvikingz.com/900193662/eOBycPCXjM/6662329
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",HBO HD US
 http://pelicanhosting.xyz:80/Holden123/Holden321/171488
 #EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Showtime HD US
-http://pelicanhosting.xyz:80/Holden123/Holden321/171472
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/4926.m3u8
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",TBS HD US
 https://vipvikingz.com/900193662/eOBycPCXjM/666768
 #EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States" group-title="Entertainment",TNT HD US
@@ -158,7 +156,7 @@ https://vipvikingz.com/900193662/eOBycPCXjM/666769
 #EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",USA Network HD US
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/109229
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="United States" group-title="Entertainment",VICE HD US
-http://txm.flysat.live:80/152082372600938/152041337807714/200410
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/667813.m3u8
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://www.dropbox.com/s/yp6mxb5u08ua6c2/animalplanethd.png?dl=1" group-title="Documentary",Animal Planet HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100764
 #EXTINF:-1 tvg-id="clarity.ca" tvg-name="Clarity 4K" tvg-logo="https://www.dropbox.com/s/aaxnhdnn3hwelru/lovenature.png?dl=1" group-title="Documentary",Clarity 4K
@@ -338,7 +336,7 @@ https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="Great! Classic" tvg-logo="https://www.dropbox.com/s/ictgdgj18b5abak/c27485dbb97fe50f09675b105b83e19a.jpg?dl=1" group-title="Cinema",Great! Classic
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="Talking Pictures" tvg-logo="https://www.dropbox.com/s/ysr0282x9gdbr4p/talkingpictures.png?dl=1" group-title="Cinema",Talking Pictures
-https://hostcloud.network/live/aD8C1ETPQU28/842373/71397.ts
+http://tv365.me:900/7439929587/4879165436/153776
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://www.dropbox.com/s/24a1izkpur13mc9/skysportsnewshd.png?dl=1" group-title="Sky Sports",Sky Sports News HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692274.m3u8
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://www.dropbox.com/s/24a1izkpur13mc9/skysportsnewshd.png?dl=1" group-title="Sky Sports",Sky Sports News FHD
