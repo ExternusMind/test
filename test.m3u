@@ -21,32 +21,42 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100655
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100656
 #EXTINF:-1 tvg-id="itvbe.uk" tvg-name="ITV Be " tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itvbehd.png" group-title="Entertainment",ITV Be 
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100657
+#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4 Seven" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/4sevenhd.png" group-title="Entertainment",4 Seven
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100662
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5Action" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/paramountchannelhd.png" group-title="Entertainment",5Action
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100769
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="5Select" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/5select.png" group-title="Entertainment",5Select
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100816
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="5Star" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/5star.png" group-title="Entertainment",5Star
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100818
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/5usa.png" group-title="Entertainment",5USA
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100819
 #EXTINF:-1 tvg-id="alibi.uk" tvg-name="Alibi HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/alibihd.png" group-title="Entertainment",Alibi HD
 https://vipvikingz.com/900193662/eOBycPCXjM/6661131
 #EXTINF:-1 tvg-id="blaze.uk" tvg-name="BLAZE" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/blaze.png" group-title="Entertainment",BLAZE
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100822
 #EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="CBS Drama" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsdrama.png" group-title="Entertainment",CBS Drama
 http://iptvtree.net:8080/F11143/577c9609/1123
-#EXTINF:-1 tvg-id="Legend.uk" tvg-name="LEGEND" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsjustice.png" group-title="Entertainment",LEGEND
-https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="CBS Reality" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsreality.png" group-title="Entertainment",CBS Reality
 https://cdnuk001.broadcastcdn.net/KUK-CBSREALITY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="challenge.uk" tvg-name="Challenge" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/challenge.png" group-title="Entertainment",Challenge
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100827
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="Comedy Central HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="Entertainment",Comedy Central HD
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100916
+#EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="Comedy Central Extra" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycentralextra.png" group-title="Entertainment",Comedy Central Extra
+http://line.uhd-ott.io:80/6A3173/AC1A7A/100926
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave HD
 https://cdnuk001.broadcastcdn.net/KUK-DAVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100797
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100830
-#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="Comedy Central HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="Entertainment",Comedy Central HD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100916
-#EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="Comedy Central Extra" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycentralextra.png" group-title="Entertainment",Comedy Central Extra
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100926
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 HD
 http://crystalott.org:80/SD9TKVIFQ3/BXYBZ6BKJR/4877
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100660
+#EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png" group-title="Entertainment",E4 Extra
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,4music-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/4music/&spotxc1=195996&spotxc2=190
 #EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Entertainment",E! UK
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100802
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/edenhd.png" group-title="Entertainment",Eden HD
@@ -57,26 +67,18 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100704
 http://tv365.me:900/7439929587/4879165436/189884
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/goldhd.png" group-title="Entertainment",Gold HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100800
+#EXTINF:-1 tvg-id="Great.uk" tvg-name="Great! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Entertainment",Great! TV
+https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="home.uk" tvg-name="HGTV" tvg-logo="https://www.floorsandingexperts.co.uk/wp-content/uploads/hgtv-logo-with-r.png" group-title="Entertainment",HGTV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6227?protocol=hls
+#EXTINF:-1 tvg-id="Legend.uk" tvg-name="LEGEND" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsjustice.png" group-title="Entertainment",LEGEND
+https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="londonlive.uk" tvg-name="London Live" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/londonlive.png" group-title="Entertainment",London Live
 http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/692524
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/more4hd.png" group-title="Entertainment",More 4 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100803
-#EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4 Seven" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/4sevenhd.png" group-title="Entertainment",4 Seven
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100662
-#EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png" group-title="Entertainment",E4 Extra
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,4music-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/4music/&spotxc1=195996&spotxc2=190
 #EXTINF:-1 tvg-id="mtv.uk" tvg-name="MTV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvhd.png" group-title="Entertainment",MTV HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101099
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="5Star" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/5star.png" group-title="Entertainment",5Star
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100818
-#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="5USA" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/5usa.png" group-title="Entertainment",5USA
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100819
-#EXTINF:-1 tvg-id="5select.uk" tvg-name="5Select" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/5select.png" group-title="Entertainment",5Select
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100816
-#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5Action" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/paramountchannelhd.png" group-title="Entertainment",5Action
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100769
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pbsamerica.png" group-title="Entertainment",PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pick.png" group-title="Entertainment",Pick
@@ -105,8 +107,6 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100966
 http://line.uhd-ott.io:80/6A3173/AC1A7A/547880
 #EXTINF:-1 tvg-id="sky2.uk" tvg-name="Sky Replay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Skyreplay2020.png" group-title="Entertainment",Sky Replay
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100814
-#EXTINF:-1 tvg-id="Great.uk" tvg-name="Great! TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Entertainment",Great! TV
-https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Syfy.uk" tvg-name="Syfy HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/syfyhd.png" group-title="Entertainment",Syfy HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100771
 #EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",TLC HD
@@ -125,37 +125,37 @@ http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692477.m3u8
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100811
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
 https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States" group-title="Entertainment",AMC HD US
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States",AMC HD US
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States" group-title="Entertainment",Comedy Central HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/666754
-#EXTINF:-1 tvg-id="comedyhub.us" tvg-name="Comedy Hub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="United States" group-title="Entertainment", Comedy Hub
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States" group-title="Entertainment",CMT HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/6662294
-#EXTINF:-1 tvg-id="starz.us" tvg-name="Starz HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="United States" group-title="Entertainment",Starz HD US
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53563 
-#EXTINF:-1 tvg-id="bbca.us" tvg-name="BBC America HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="United States" group-title="Entertainment",BBC America HD US
+#EXTINF:-1 tvg-id="bbca.us" tvg-name="BBC America HD US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/tbs-us.png" group-title="United States",BBC America HD US
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Fuse HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/6666361
-#EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="United States" group-title="Entertainment",FX HD US
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States",Comedy Central HD US
+https://vipvikingz.com/900193662/eOBycPCXjM/666754
+#EXTINF:-1 tvg-id="comedyhub.us" tvg-name="Comedy Hub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="United States", Comedy Hub
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States",CMT HD US
+https://vipvikingz.com/900193662/eOBycPCXjM/6662294 
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://i.postimg.cc/VvnfqpFs/FX.jpg" group-title="United States",FX HD US
 https://vipvikingz.com/900193662/eOBycPCXjM/666758
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States" group-title="Entertainment",FXX HD US
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://i.postimg.cc/QMCj4Hqy/FXX.jpg" group-title="United States",FXX HD US
 https://vipvikingz.com/900193662/eOBycPCXjM/6662330
-#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Freeform HD US
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States",Freeform HD US
 https://vipvikingz.com/900193662/eOBycPCXjM/6662329
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",HBO HD US
+#EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States",Fuse HD US
+https://vipvikingz.com/900193662/eOBycPCXjM/6666361
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States",HBO HD US
 http://pelicanhosting.xyz:80/Holden123/Holden321/171488
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",Showtime HD US
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States",Showtime HD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/4926.m3u8
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",TBS HD US
+#EXTINF:-1 tvg-id="starz.us" tvg-name="Starz HD US" tvg-logo="https://i.postimg.cc/MZCvF2XY/Bravo-2017.jpg" group-title="United States",Starz HD US
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53563
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States",TBS HD US
 https://vipvikingz.com/900193662/eOBycPCXjM/666768
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States" group-title="Entertainment",TNT HD US
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT HD US" tvg-logo="https://i.postimg.cc/sxcPg6Zx/AMC.jpg" group-title="United States",TNT HD US
 https://vipvikingz.com/900193662/eOBycPCXjM/666769
-#EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States" group-title="Entertainment",USA Network HD US
+#EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://i.postimg.cc/FFGtk9vW/HBO.jpg" group-title="United States",USA Network HD US
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/109229
-#EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="United States" group-title="Entertainment",VICE HD US
+#EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="United States",VICE HD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/667813.m3u8
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://www.dropbox.com/s/yp6mxb5u08ua6c2/animalplanethd.png?dl=1" group-title="Documentary",Animal Planet HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100764
