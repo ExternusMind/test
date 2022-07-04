@@ -23,7 +23,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100656
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100657
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4 Seven" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/4sevenhd.png" group-title="Entertainment",4 Seven
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100662
-#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5Action" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/5-action-uk.png" group-title="Entertainment",5Action
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5Action" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/5-action-uk.png" group-title="Entertainment",5Action
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100769
 #EXTINF:-1 tvg-id="5select.uk" tvg-name="5Select" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/5select.png" group-title="Entertainment",5Select
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100816
@@ -55,7 +55,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100830
 http://crystalott.org:80/SD9TKVIFQ3/BXYBZ6BKJR/4877
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100660
-#EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/e-4-extra-uk.png" group-title="Entertainment",E4 Extra
+#EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/e-4-extra-uk.png" group-title="Entertainment",E4 Extra
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,4music-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/4music/&spotxc1=195996&spotxc2=190
 #EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Entertainment",E! UK
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100802
@@ -113,7 +113,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100771
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692560.m3u8
 #EXTINF:-1 tvg-id="Together.uk" tvg-name="Together TV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",Together TV HD
 https://redbee.serverside.ai/hls/3171ce3b-ad26-4e78-806e-dc56e401d473/master.m3u8?api-key=9a319268-938b-4e12-8199-315d92434b9a
-#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/thats-tv-uk.png" group-title="Entertainment",That's TV
+#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/thats-tv-uk.png" group-title="Entertainment",That's TV
 http://iptvtree.net:8080/F11368/c81b8877/286769
 #EXTINF:-1 tvg-id="Travelxp.uk" tvg-name="TravelXP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png" group-title="Entertainment",TravelXP HD
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
@@ -175,11 +175,11 @@ http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692445.m3u8
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692447.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="https://www.dropbox.com/s/bmsjs31n8g8a1rv/discoveryturbo.png?dl=1" group-title="Documentary",Discovery Turbo
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692448.m3u8
-#EXTINF:-1 tvg-id="Insight.uk" tvg-name="Insight" tvg-logo="https://www.dropbox.com/s/vnwa00wki00hqtt/idinvestigationdiscovery.png?dl=1" group-title="Documentary",Insight
+#EXTINF:-1 tvg-id="Insight.uk" tvg-name="Insight" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/insight-tv-de.png" group-title="Documentary",Insight
 https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="Investigation Discovery ID" tvg-logo="https://www.dropbox.com/s/vnwa00wki00hqtt/idinvestigationdiscovery.png?dl=1" group-title="Documentary",Investigation Discovery ID
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100789
-#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="Love Nature" tvg-logo="https://www.dropbox.com/s/aaxnhdnn3hwelru/lovenature.png?dl=1" group-title="Documentary",Love Nature 4K
+#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png" group-title="Documentary",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic HD" tvg-logo="https://www.dropbox.com/s/wpyx0cfmju86foo/natgeo.png?dl=1" group-title="Documentary",National Geographic HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100762
@@ -227,15 +227,15 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100934
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News HD" tvg-logo="https://i.postimg.cc/T3H5x72k/Sky_News_2020.jpg" group-title="News",Sky News HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100690
-#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="Bloomberg 4K" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/bloomberg-live-events-us.png" group-title="News",Bloomberg 4K
+#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="Bloomberg 4K" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bloomberg-live-events-us.png" group-title="News",Bloomberg 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Cnn.uk" tvg-name="CNN HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/cnn-us.png" group-title="News",CNN HD
+#EXTINF:-1 tvg-id="Cnn.uk" tvg-name="CNN HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cnn-international-int.png" group-title="News",CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/gb-news-uk.png" group-title="News",Euronews HD
+#EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/euro-news-hz-int.png" group-title="News",Euronews HD
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/gb-news-uk.png" group-title="News",GB News HD
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8?HasBahCa.m3u8
-#EXTINF:-1 tvg-id="talktv.uk" tvg-name="Talk TV HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/talk-tv-uk.png" group-title="News",Talk TV HD
+#EXTINF:-1 tvg-id="talktv.uk" tvg-name="Talk TV HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/talk-tv-uk.png" group-title="News",Talk TV HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="Box.uk" tvg-name="The Box" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxhits.png" group-title="Music",The Box
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/thebox/
@@ -249,7 +249,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101106
 #EXTINF:-1 tvg-id="Magic.uk" tvg-name="Magic" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/magic.png" group-title="Music",Magic
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101107
-#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV BASE" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvbase.png" group-title="Music",MTV BASE
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV 90s" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvbase.png" group-title="Music",MTV 90s
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101109
 #EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTV CLASSIC" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvclassic.png" group-title="Music",MTV CLASSIC
 http://line.thesmartiptv.com:900/2863259172/6796177544/153805
@@ -257,9 +257,9 @@ http://line.thesmartiptv.com:900/2863259172/6796177544/153805
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101112
 #EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="MTV MUSIC" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvmusic.png" group-title="Music",MTV MUSIC
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101113
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV LIVE HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvmusic.png" group-title="Music",MTV LIVE HD
+#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV LIVE HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/mtv-live-hd-nl.png" group-title="Music",MTV LIVE HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101100
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s" tvg-logo="https://i.ytimg.com/vi/5vO9yp_7be0/maxresdefault.jpg" group-title="Music",Now 70s
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s" tvg-logo="https://i.ytimg.com/vi/5vO9yp_7be0/maxresdefault.jpg" group-title="Music",NOW 70s
 http://line.thesmartiptv.com:900/2863259172/6796177544/191700
 #EXTINF:-1 tvg-id="now80s.uk" tvg-name="NOW 80s" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/now80s.png" group-title="Music",NOW 80s
 http://line.thesmartiptv.com:900/2863259172/6796177544/191699
@@ -269,11 +269,11 @@ http://line.thesmartiptv.com:900/2863259172/6796177544/191698
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="Vault.uk" tvg-name="Trace Vault" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TRACE_Vault_Logo.png/220px-TRACE_Vault_Logo.png" group-title="Music",Trace Vault
 http://tv365.me:900/7439929587/4879165436/191651
-#EXTINF:-1 tvg-id="urban.uk" tvg-name="Trace Urban" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/trace-urban-uk.png" group-title="Music",Trace Urban
+#EXTINF:-1 tvg-id="urban.uk" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/trace-urban-uk.png" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="qmusic.eu" tvg-name="Q Music" tvg-logo="" group-title="Music",Q Music
+#EXTINF:-1 tvg-id="qmusic.eu" tvg-name="Q Music" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/qmusic-be.png" group-title="Music",Q Music
 http://ch.iptvmate.net/30cada41457f1d01f5ab9f1a608ebca6.m3u8
-#EXTINF:-1 tvg-id="vh1.eu" tvg-name="VH1" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/vh1-uk.png" group-title="Music",VH1
+#EXTINF:-1 tvg-id="vh1.eu" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/vh1-uk.png" group-title="Music",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&amp;expand=simulcast_standard&amp;exp=1529767847&amp;rn=-811303751&amp;cid=36953f5b6546464590d2fcd954bc89cf&amp;tc=1&amp;sig=
 #EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="https://www.dropbox.com/s/l5zz5st2r8dfxao/skycinemaaction.png?dl=1" group-title="Cinema",Sky Cinema Action HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53956
