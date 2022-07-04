@@ -23,7 +23,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100656
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100657
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4 Seven" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/4sevenhd.png" group-title="Entertainment",4 Seven
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100662
-#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5Action" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/paramountchannelhd.png" group-title="Entertainment",5Action
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="5Action" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/5-action-uk.png" group-title="Entertainment",5Action
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100769
 #EXTINF:-1 tvg-id="5select.uk" tvg-name="5Select" tvg-logo="http://origintvsolutions.co.uk/Logos/Logos/5select.png" group-title="Entertainment",5Select
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100816
@@ -55,7 +55,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100830
 http://crystalott.org:80/SD9TKVIFQ3/BXYBZ6BKJR/4877
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100660
-#EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/1200px-4Music_logo_2018.svg.png" group-title="Entertainment",E4 Extra
+#EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/e-4-extra-uk.png" group-title="Entertainment",E4 Extra
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,4music-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/4music/&spotxc1=195996&spotxc2=190
 #EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Entertainment",E! UK
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100802
@@ -71,7 +71,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100800
 https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="home.uk" tvg-name="HGTV" tvg-logo="https://www.floorsandingexperts.co.uk/wp-content/uploads/hgtv-logo-with-r.png" group-title="Entertainment",HGTV
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6227?protocol=hls
-#EXTINF:-1 tvg-id="Legend.uk" tvg-name="LEGEND" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbsjustice.png" group-title="Entertainment",LEGEND
+#EXTINF:-1 tvg-id="Legend.uk" tvg-name="LEGEND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Legend.svg" group-title="Entertainment",LEGEND
 https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="londonlive.uk" tvg-name="London Live" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/londonlive.png" group-title="Entertainment",London Live
 http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/692524
@@ -89,7 +89,7 @@ http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692542.m3u8
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692543.m3u8
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/really.png" group-title="Entertainment",Really
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Realityxtra.uk" tvg-name="RealityXtra" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/really.png" group-title="Entertainment",RealityXtra
+#EXTINF:-1 tvg-id="Realityxtra.uk" tvg-name="RealityXtra" tvg-logo="https://logos.fandom.com/wiki/RealityXtra?file=RealityXtra_logo.svg" group-title="Entertainment",RealityXtra
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyartshd.png" group-title="Entertainment",Sky Arts HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100937
@@ -113,9 +113,9 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100771
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692560.m3u8
 #EXTINF:-1 tvg-id="Together.uk" tvg-name="Together TV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",Together TV HD
 https://redbee.serverside.ai/hls/3171ce3b-ad26-4e78-806e-dc56e401d473/master.m3u8?api-key=9a319268-938b-4e12-8199-315d92434b9a
-#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",That's TV
+#EXTINF:-1 tvg-id="ThatsTV.uk" tvg-name="That's TV" tvg-logo="https://logos.fandom.com/wiki/That%27s_Norfolk?file=THAT%2527s_TV_%25282014%2529.jpg" group-title="Entertainment",That's TV
 http://iptvtree.net:8080/F11368/c81b8877/286769
-#EXTINF:-1 tvg-id="Travelxp.uk" tvg-name="TravelXP HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tlchd.png" group-title="Entertainment",TravelXP HD
+#EXTINF:-1 tvg-id="Travelxp.uk" tvg-name="TravelXP HD" tvg-logo="https://logos.fandom.com/wiki/Travelxp_(Europe)?file=Travelxp-01.svg" group-title="Entertainment",TravelXP HD
 https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-id="VM1.uk" tvg-name="Virgin Media One HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/virgin-media-one-uk.png" group-title="Entertainment",Virgin Media One HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692475.m3u8
