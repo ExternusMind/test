@@ -119,7 +119,7 @@ https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692475.m3u8
 #EXTINF:-1 tvg-id="VM2.uk" tvg-name="Virgin Media Two HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Virgin_Media_Two_logo.png/512px-Virgin_Media_Two_logo.png" group-title="Entertainment",Virgin Media Two HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692477.m3u8
-#EXTINF:-1 tvg-id="w.uk" tvg-name="W HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/whd.png" group-title="Entertainment",W HD
+#EXTINF:-1 tvg-id="w.uk" tvg-name="W HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/W_HD_%28UKTV%29_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220329090957" group-title="Entertainment",W HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100811
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
 https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
