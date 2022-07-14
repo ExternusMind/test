@@ -50,11 +50,11 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100797
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100830
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 HD
-http://flix12.site:8080/v7kz1inkqp/rtaqq4fhnf/692513
+http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692513.m3u8
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100660
 #EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/e-4-extra-uk.png" group-title="Entertainment",E4 Extra
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,4music-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/4music/&spotxc1=195996&spotxc2=190
+http://txm.flysat.live:80/152082372600938/152041337807714/2003900
 #EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Entertainment",E! UK
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100802
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/edenhd.png" group-title="Entertainment",Eden HD
@@ -72,7 +72,7 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6227?p
 #EXTINF:-1 tvg-id="Legend.uk" tvg-name="LEGEND" tvg-logo="https://www.legend-tv.co.uk/grfx/stuff/legend-logo-orange.png" group-title="Entertainment",LEGEND
 https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="londonlive.uk" tvg-name="London Live" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/londonlive.png" group-title="Entertainment",London Live
-http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/692524
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/286912
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/more4hd.png" group-title="Entertainment",More 4 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100803
 #EXTINF:-1 tvg-id="mtv.uk" tvg-name="MTV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/mtvhd.png" group-title="Entertainment",MTV HD
@@ -89,7 +89,7 @@ http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692543.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="realityxtra.uk" tvg-name="realityxtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1429.1656607197.png" group-title="Entertainment",realityxtra
 http://iptvtree.net:8080/F11143/577c9609/1123
-#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="https://images.immediate.co.uk/remote/images.atlas.metabroadcast.com/api.pressassociation.com/channel/d34e26f3-6576-5cb8-a2a5-34d6f01af9c4.png" group-title="Entertainment",Sky Arts HD
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/inline-images/sky-arts-logo-1920w_0.png" group-title="Entertainment",Sky Arts HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100937
 #EXTINF:-1 tvg-id="sky1.uk" tvg-name="Sky Showcase HD" tvg-logo="https://i.imgur.com/7viaZKs.png" group-title="Entertainment",Sky Showcase HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100806
