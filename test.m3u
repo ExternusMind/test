@@ -4,7 +4,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 #EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="Entertainment",BBC Two HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="itv1.uk" tvg-name="ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1 HD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100653
+https://cdnuk001.broadcastcdn.net/KUK-ITV-107/index.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100658
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5hd.png" group-title="Entertainment",Channel 5 FHD
@@ -82,7 +82,7 @@ https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pick.png" group-title="Entertainment",Pick
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100840
 #EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/questhd.png" group-title="Entertainment",Quest HD
-http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692542.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/index.m3u8
 #EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/questred.png" group-title="Entertainment",Quest Red
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692543.m3u8
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/really.png" group-title="Entertainment",Really
@@ -142,13 +142,13 @@ https://vipvikingz.com/900193662/eOBycPCXjM/6662329
 #EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="United States",Fuse HD US
 https://vipvikingz.com/900193662/eOBycPCXjM/6666361
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="United States",HBO HD US
-http://pelicanhosting.xyz:80/Holden123/Holden321/171488
+http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53513
 #EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="United States",Showtime HD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/4926.m3u8
 #EXTINF:-1 tvg-id="starz.us" tvg-name="Starz HD US" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="United States",Starz HD US
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53563
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="United States",TBS HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/666768
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30915
 #EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="United States",TNT HD US
 https://vipvikingz.com/900193662/eOBycPCXjM/666769
 #EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="United States",USA Network HD US
@@ -160,7 +160,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100764
 #EXTINF:-1 tvg-id="clarity.ca" tvg-name="Clarity 4K" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png" group-title="Documentary",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="court.us" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Documentary",Court TV
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-COURTTV/index.m3u8
 #EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="Crime & Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/512px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="Documentary",Crime & Investigation HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100765
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Documentary",Discovery Channel HD
@@ -205,8 +205,8 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100912
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 #EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbeebieshd.png" group-title="Kids",CBeebies
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
-#EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/citv.png" group-title="Kids",CITV HD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100677
+#EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/citv.png" group-title="Kids",CITV
+https://cdnuk001.broadcastcdn.net/KUK-CITV/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="Nick HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/nickelodeonhd.png" group-title="Kids",Nick HD
 http://tv365.me:900/7439929587/4879165436/400230355
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr Too" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/nickjrtoo.png" group-title="Kids",Nick Jr Too
@@ -218,9 +218,9 @@ http://tv365.me:900/7439929587/4879165436/153833
 #EXTINF:-1 tvg-id="pop.uk" tvg-name="POP" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/pop.png" group-title="Kids",POP
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101119
 #EXTINF:-1 tvg-id="POPMax.uk" tvg-name="POP MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png" group-title="Kids",POP MAX
-http://line.uhd-ott.io:80/6A3173/AC1A7A/101120
+https://cdnuk001.broadcastcdn.net/KUK-POPMAX/index.m3u8
 #EXTINF:-1 tvg-id="tinypop.uk" tvg-name="Pop (Tiny Pop)" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tinypop.png" group-title="Kids",Pop (Tiny Pop)
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100934
+https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/index.m3u8
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC News HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" group-title="News",Sky News HD
@@ -320,11 +320,11 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100946
 #EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/C09wxQr.png" group-title="Cinema",TCM HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100967
 #EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4 HD" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2018-10/Film4_RGB_Colour_Positive.png?h=8a7fc05e&itok=cPG3CJTU" group-title="Cinema",Film 4 HD
-http://tv365.me:900/7439929587/4879165436/153766
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127591
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 FHD" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2018-10/Film4_RGB_Colour_Positive.png?h=8a7fc05e&itok=cPG3CJTU" group-title="Cinema",Film 4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100951
 #EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="horrorxtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1459.1656607297.png" group-title="Cinema",horrorxtra
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100970
+https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="movies24.uk" tvg-name="Movies24" tvg-logo="https://i.imgur.com/ndf8v1j.png" group-title="Cinema",Movies24
 http://tv365.me:900/7439929587/4879165436/400230358
 #EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Great%21_Movies_logo.webp/512px-Great%21_Movies_logo.webp.png" group-title="Cinema",Great! Movies
