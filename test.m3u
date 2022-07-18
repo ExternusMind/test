@@ -6,9 +6,9 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-id="itv1.uk" tvg-name="ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1 HD
 https://cdnuk001.broadcastcdn.net/KUK-ITV-107/index.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 FHD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100658
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/index.m3u8
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5hd.png" group-title="Entertainment",Channel 5 FHD
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100659
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/index.m3u8
 #EXTINF:-1 tvg-id="bbc3.uk" tvg-name="BBC Three HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Entertainment",BBC Three HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="bbc4.uk" tvg-name="BBC Four HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Entertainment",BBC Four HD
@@ -20,7 +20,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100655
 #EXTINF:-1 tvg-id="itv4.uk" tvg-name="ITV 4" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv4hd.png" group-title="Entertainment",ITV 4 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100656
 #EXTINF:-1 tvg-id="itvbe.uk" tvg-name="ITV Be " tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itvbehd.png" group-title="Entertainment",ITV Be 
-http://line.uhd-ott.io:80/6A3173/AC1A7A/100657
+https://cdnuk001.broadcastcdn.net/KUK-ITVBE/index.m3u8
 #EXTINF:-1 tvg-id="4Seven.uk" tvg-name="4 Seven" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/4sevenhd.png" group-title="Entertainment",4 Seven
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100662
 #EXTINF:-1 tvg-id="5Action.uk" tvg-name="5 Action" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/5-action-uk.png" group-title="Entertainment",5 Action
@@ -265,8 +265,8 @@ http://line.thesmartiptv.com:900/2863259172/6796177544/191699
 http://line.thesmartiptv.com:900/2863259172/6796177544/191698
 #EXTINF:-1 tvg-id="spotlighttv.uk" tvg-name="Spotlight" tvg-logo="http://origintvsolutions.co.uk/Logos/spotlight.jpg" group-title="Music",Spotlight
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="Vault.uk" tvg-name="Trace Vault" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TRACE_Vault_Logo.png/220px-TRACE_Vault_Logo.png" group-title="Music",Trace Vault
-http://tv365.me:900/7439929587/4879165436/191651
+#EXTINF:-1 tvg-id="Hits.uk" tvg-name="Trace Hits" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-uk-logos/master/TV/.Light/Trace%20Hits.png" group-title="Music",Trace Hits
+https://cdnuk001.broadcastcdn.net/KUK-TRACEHITS/index.m3u8
 #EXTINF:-1 tvg-id="urban.uk" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/trace-urban-uk.png" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="qmusic.eu" tvg-name="Q Music" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/qmusic-be.png" group-title="Music",Q Music
