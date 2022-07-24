@@ -50,7 +50,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100797
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100830
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 HD
-http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692513.m3u8
+http://flix12.site:8080/v7kz1inkqp/rtaqq4fhnf/692514
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100660
 #EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/e-4-extra-uk.png" group-title="Entertainment",E4 Extra
@@ -62,7 +62,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100833
 #EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/foodnetworkhd.png" group-title="Entertainment",Food Network
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100704
 #EXTINF:-1 tvg-id="foodxp.uk" tvg-name="Foodxp" tvg-logo="https://foodxp.b-cdn.net/wp-content/uploads/2022/02/Foodxp-Dark.png" group-title="Entertainment",Foodxp
-http://iptvtree.net:8080/F11143/577c9609/11450
+https://cdnuk001.broadcastcdn.net/KUK-FOODXP/index.m3u8
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/goldhd.png" group-title="Entertainment",Gold HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100800
 #EXTINF:-1 tvg-id="Great.uk" tvg-name="Great! TV" tvg-logo="https://i.imgur.com/WGeAMUl.png" group-title="Entertainment",Great! TV
@@ -126,19 +126,19 @@ https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/62407
 #EXTINF:-1 tvg-id="bbca.us" tvg-name="BBC America HD US" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="United States",BBC America HD US
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States",Comedy Central HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/666754
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/754
 #EXTINF:-1 tvg-id="comedyhub.us" tvg-name="Comedy Hub" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/COMEDYHUB_1000X1000.png?$296_164_PNG$" group-title="United States", Comedy Hub
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/512px-CMT_2017_logo.png" group-title="United States",CMT HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/6662294 
+https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/cmt.us.eastern.us.m3u8 
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="United States",FX HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/666758
+http://dns.acaidopara.net:8080/Ft8FjBQGjm/S0bByXScuv/10841
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="United States",FXX HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/6662330
+http://dns.acaidopara.net:8080/Ft8FjBQGjm/S0bByXScuv/10843
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="United States",Freeform HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/6662329
+https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/freeform.east.us.m3u8
 #EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="United States",Fuse HD US
-https://vipvikingz.com/900193662/eOBycPCXjM/6666361
+https://tvnow.best/api/stream/lt4383@gmail.com/755909/livetv.epg/fuse.tv.eastern.us.m3u8
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="United States",HBO HD US
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53513
 #EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="United States",Showtime HD US
@@ -152,7 +152,7 @@ https://networkbest.ru.com/cdn/premium338/playlist.m3u8|Referer=https://player.l
 #EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="United States",USA Network HD US
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/109229
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="United States",VICE HD US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/667813.m3u8
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/11452
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100764
 #EXTINF:-1 tvg-id="clarity.ca" tvg-name="Clarity 4K" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png" group-title="Documentary",Clarity 4K
@@ -276,7 +276,7 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53956
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="Cinema",Sky Cinema Action FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100938
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Cinema",Sky Cinema Animation HD
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/692416.m3u8
+http://flix12.site:8080/v7kz1inkqp/rtaqq4fhnf/692416
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation FHD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Cinema",Sky Cinema Animation FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/197793
 #EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="Cinema",Sky Cinema Comedy HD
@@ -312,13 +312,13 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53958
 #EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select FHD" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="Cinema",Sky Cinema Select FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100945
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="Cinema",Sky Cinema Thriller HD
-https://vipvikingz.com/900193662/eOBycPCXjM/6661082
+http://flix12.site:8080/v7kz1inkqp/rtaqq4fhnf/692426
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller FHD" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="Cinema",Sky Cinema Thriller FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100946
 #EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/C09wxQr.png" group-title="Cinema",TCM HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100967
 #EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4 HD" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2018-10/Film4_RGB_Colour_Positive.png?h=8a7fc05e&itok=cPG3CJTU" group-title="Cinema",Film 4 HD
-http://93.152.174.144:4000/play/film4/index.m3u8
+https://cdnuk001.broadcastcdn.net/KUK-FILM4/index.m3u8
 #EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 FHD" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2018-10/Film4_RGB_Colour_Positive.png?h=8a7fc05e&itok=cPG3CJTU" group-title="Cinema",Film 4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100951
 #EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="horrorxtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1459.1656607297.png" group-title="Cinema",horrorxtra
@@ -378,7 +378,7 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/103838.ts
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.imgur.com/Wn1fS4q.png" group-title="Sky Sports",Sky Sports Racing FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101047
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://i.imgur.com/ZVD8W6L.png" group-title="Sports",BT Sport 1 HD
-http://crystalott.org:80/SD9TKVIFQ3/BXYBZ6BKJR/4793
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/110708
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://i.imgur.com/OmqC3Ai.png" group-title="Sports",BT Sport 2 HD
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89213
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://i.imgur.com/3Iuxl2l.png" group-title="Sports",BT Sport 3 HD
