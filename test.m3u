@@ -329,7 +329,7 @@ https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/index.m3u8
 http://tv365.me:900/7439929587/4879165436/400230358
 #EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Great%21_Movies_logo.webp/512px-Great%21_Movies_logo.webp.png" group-title="Movies",Great! Movies
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="greatmoviesaction.uk" tvg-name="Great! Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Great%21_Movies_Action_logo.webp/512px-Great%21_Movies_Action_logo.webp.png" group-title="Cinema",Great! Action
+#EXTINF:-1 tvg-id="greatmoviesaction.uk" tvg-name="Great! Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Great%21_Movies_Action_logo.webp/512px-Great%21_Movies_Action_logo.webp.png" group-title="Movies",Great! Action
 https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="Great! Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Great%21_Movies_Classic_logo.png" group-title="Movies",Great! Classic
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/tracks-v1a1/mono.m3u8
