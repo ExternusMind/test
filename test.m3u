@@ -273,67 +273,67 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 http://ch.iptvmate.net/30cada41457f1d01f5ab9f1a608ebca6.m3u8
 #EXTINF:-1 tvg-id="vh1.eu" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/vh1-uk.png" group-title="Music",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&amp;expand=simulcast_standard&amp;exp=1529767847&amp;rn=-811303751&amp;cid=36953f5b6546464590d2fcd954bc89cf&amp;tc=1&amp;sig=
-#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="Cinema",Sky Cinema Action HD
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="Movies",Sky Cinema Action HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53956
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="Cinema",Sky Cinema Action FHD
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="Movies",Sky Cinema Action FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100938
-#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Cinema",Sky Cinema Animation HD
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Movies",Sky Cinema Animation HD
 http://flix12.site:8080/v7kz1inkqp/rtaqq4fhnf/692416
-#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation FHD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Cinema",Sky Cinema Animation FHD
+#EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation FHD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Movies",Sky Cinema Animation FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/197793
-#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="Cinema",Sky Cinema Comedy HD
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="Movies",Sky Cinema Comedy HD
 http://txm.flysat.live:80/152082372600938/152041337807714/200361
-#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy FHD" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="Cinema",Sky Cinema Comedy FHD
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy FHD" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="Movies",Sky Cinema Comedy FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100939
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama HD" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="Cinema",Sky Cinema Drama HD
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama HD" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="Movies",Sky Cinema Drama HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53961
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama FHD" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="Cinema",Sky Cinema Drama FHD
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama FHD" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="Movies",Sky Cinema Drama FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100947
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="Cinema",Sky Cinema Family HD
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="Movies",Sky Cinema Family HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53962
-#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="Sky Cinema Family FHD" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="Cinema",Sky Cinema Family FHD
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="Sky Cinema Family FHD" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="Movies",Sky Cinema Family FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100941
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats HD" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="Cinema",Sky Cinema Greats HD
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats HD" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="Movies",Sky Cinema Greats HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53963
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats FHD" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="Cinema",Sky Cinema Greats FHD
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="Sky Cinema Greats FHD" tvg-logo="https://i.imgur.com/ssalgh1.png" group-title="Movies",Sky Cinema Greats FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100942
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="Cinema",Sky Cinema Hits HD
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits HD" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="Movies",Sky Cinema Hits HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53964
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits FHD" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="Cinema",Sky Cinema Hits FHD
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="Sky Cinema Hits FHD" tvg-logo="https://i.imgur.com/6qYnSaA.png" group-title="Movies",Sky Cinema Hits FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100948
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere HD" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="Cinema",Sky Cinema Premiere HD
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere HD" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="Movies",Sky Cinema Premiere HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53965
-#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere FHD" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="Cinema",Sky Cinema Premiere FHD
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="Sky Cinema Premiere FHD" tvg-logo="https://i.imgur.com/Di39qLn.png" group-title="Movies",Sky Cinema Premiere FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/213526
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema SciFi & Horror HD" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="Cinema",Sky Cinema SciFi & Horror HD
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema SciFi & Horror HD" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="Movies",Sky Cinema SciFi & Horror HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53966
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema SciFi & Horror FHD" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="Cinema",Sky Cinema SciFi & Horror FHD
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="Sky Cinema SciFi & Horror FHD" tvg-logo="https://i.imgur.com/Plz70jD.png" group-title="Movies",Sky Cinema SciFi & Horror FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100944
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select HD" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="Cinema",Sky Cinema Select HD
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select HD" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="Movies",Sky Cinema Select HD
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53958
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select FHD" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="Cinema",Sky Cinema Select FHD
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select FHD" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="Movies",Sky Cinema Select FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100945
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="Cinema",Sky Cinema Thriller HD
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="Movies",Sky Cinema Thriller HD
 http://flix12.site:8080/v7kz1inkqp/rtaqq4fhnf/692426
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller FHD" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="Cinema",Sky Cinema Thriller FHD
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller FHD" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="Movies",Sky Cinema Thriller FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100946
-#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/C09wxQr.png" group-title="Cinema",TCM HD
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/C09wxQr.png" group-title="Movies",TCM HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100967
-#EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4 HD" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2018-10/Film4_RGB_Colour_Positive.png?h=8a7fc05e&itok=cPG3CJTU" group-title="Cinema",Film 4 HD
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="Film 4 HD" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2018-10/Film4_RGB_Colour_Positive.png?h=8a7fc05e&itok=cPG3CJTU" group-title="Movies",Film 4 HD
 https://cdnuk001.broadcastcdn.net/KUK-FILM4/index.m3u8
-#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 FHD" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2018-10/Film4_RGB_Colour_Positive.png?h=8a7fc05e&itok=cPG3CJTU" group-title="Cinema",Film 4 FHD
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 FHD" tvg-logo="https://assets-corporate.channel4.com/_flysystem/s3/styles/16_9_ratio_large/s3/2018-10/Film4_RGB_Colour_Positive.png?h=8a7fc05e&itok=cPG3CJTU" group-title="Movies",Film 4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100951
-#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="horrorxtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1459.1656607297.png" group-title="Cinema",horrorxtra
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="horrorxtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1459.1656607297.png" group-title="Movies",horrorxtra
 https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="movies24.uk" tvg-name="Movies24" tvg-logo="https://i.imgur.com/ndf8v1j.png" group-title="Cinema",Movies24
+#EXTINF:-1 tvg-id="movies24.uk" tvg-name="Movies24" tvg-logo="https://i.imgur.com/ndf8v1j.png" group-title="Movies",Movies24
 http://tv365.me:900/7439929587/4879165436/400230358
-#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Great%21_Movies_logo.webp/512px-Great%21_Movies_logo.webp.png" group-title="Cinema",Great! Movies
+#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Great%21_Movies_logo.webp/512px-Great%21_Movies_logo.webp.png" group-title="Movies",Great! Movies
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="greatmoviesaction.uk" tvg-name="Great! Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Great%21_Movies_Action_logo.webp/512px-Great%21_Movies_Action_logo.webp.png" group-title="Cinema",Great! Action
 https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="Great! Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Great%21_Movies_Classic_logo.png" group-title="Cinema",Great! Classic
+#EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="Great! Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Great%21_Movies_Classic_logo.png" group-title="Movies",Great! Classic
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="Talking Pictures" tvg-logo="https://i.imgur.com/S1zoIp7.png" group-title="Cinema",Talking Pictures
+#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="Talking Pictures" tvg-logo="https://i.imgur.com/S1zoIp7.png" group-title="Movies",Talking Pictures
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/4710
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://i.imgur.com/sngAWff.png" group-title="Sky Sports",Sky Sports Action HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692272.m3u8
@@ -380,13 +380,13 @@ https://hostcloud.network/live/aD8C1ETPQU28/842373/103838.ts
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.imgur.com/Wn1fS4q.png" group-title="Sky Sports",Sky Sports Racing FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101047
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://i.imgur.com/ZVD8W6L.png" group-title="Sports",BT Sport 1 HD
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/110708
+http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/692280
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://i.imgur.com/OmqC3Ai.png" group-title="Sports",BT Sport 2 HD
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89213
+http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/692282
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://i.imgur.com/3Iuxl2l.png" group-title="Sports",BT Sport 3 HD
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89212
-#EXTINF:-1 tvg-id="espn.za" tvg-name="ESPN" tvg-logo="https://i.imgur.com/00xbr96.png" group-title="Sports",ESPN
-http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/89211
+http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/692284
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT Sport 4 HD" tvg-logo="https://i.imgur.com/00xbr96.png" group-title="Sports",BT Sport 4 HD
+http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/692291
 #EXTINF:-1 tvg-id="boxnation.uk" tvg-name="Box Nation HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxnationhd.png" group-title="Sports",Box Nation HD
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/1380
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/eurosport1hd.png" group-title="Sports",Eurosport 1 HD
