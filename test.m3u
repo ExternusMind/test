@@ -5,9 +5,9 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="itv1.uk" tvg-name="ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1 HD
 https://cdnuk001.broadcastcdn.net/KUK-ITV-107/index.m3u8
-#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 FHD
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 HD
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/index.m3u8
-#EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5hd.png" group-title="Entertainment",Channel 5 FHD
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5hd.png" group-title="Entertainment",Channel 5 HD
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/index.m3u8
 #EXTINF:-1 tvg-id="bbc3.uk" tvg-name="BBC Three HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Entertainment",BBC Three HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
