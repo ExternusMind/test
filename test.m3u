@@ -6,7 +6,7 @@ https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/
 #EXTINF:-1 tvg-id="itv1.uk" tvg-name="ITV 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/itv.png" group-title="Entertainment",ITV 1 HD
 https://cdnuk001.broadcastcdn.net/KUK-ITV-107/index.m3u8
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel4hd.png" group-title="Entertainment",Channel 4 HD
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/index.m3u8
+http://185.234.217.19:8013/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/channel5hd.png" group-title="Entertainment",Channel 5 HD
 https://cdnuk001.broadcastcdn.net/KUK-FIVE/index.m3u8
 #EXTINF:-1 tvg-id="bbc3.uk" tvg-name="BBC Three HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="Entertainment",BBC Three HD
@@ -87,7 +87,7 @@ https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/index.m3u8
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/692543
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/really.png" group-title="Entertainment",Really
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="realityxtra.uk" tvg-name="realityxtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1429.1656607197.png" group-title="Entertainment",realityxtra
+#EXTINF:-1 tvg-id="realityxtra.uk" tvg-name="RealityXtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1429.1656607197.png" group-title="Entertainment",RealityXtra
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/inline-images/sky-arts-logo-1920w_0.png" group-title="Entertainment",Sky Arts HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100937
@@ -95,9 +95,9 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100937
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100806
 #EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyatlantichd.png" group-title="Entertainment",Sky Atlantic HD
 http://itsidletime.xyz:25461/PwSe46Jpxe/uOCGCgeKn8/53955
-#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="Sky Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Sky_Crime_2020.png/512px-Sky_Crime_2020.png" group-title="Entertainment",Sky Crime
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="Sky Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Sky_Crime_2020.png/512px-Sky_Crime_2020.png" group-title="Entertainment",Sky Crime HD
 http://itsidletime.xyz:25461/Kf5MXkcskw/phwOVG7le8/53969
-#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Sky_Comedy_2020.png/512px-Sky_Comedy_2020.png" group-title="Entertainment",Sky Comedy
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Sky_Comedy_2020.png/512px-Sky_Comedy_2020.png" group-title="Entertainment",Sky Comedy HD
 http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/692550
 #EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witness HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skywitnesshd.png" group-title="Entertainment",Sky Witness HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100966
@@ -203,7 +203,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100923
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100912
 #EXTINF:-1 tvg-id="cbbc.uk" tvg-name="CBBC HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbbchd.png" group-title="Kids",CBBC HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbeebieshd.png" group-title="Kids",CBeebies
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="CBeebies HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/cbeebieshd.png" group-title="Kids",CBeebies HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
 #EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/citv.png" group-title="Kids",CITV
 https://cdnuk001.broadcastcdn.net/KUK-CITV/index.m3u8
@@ -232,7 +232,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/euro-news-hz-int.png" group-title="News",Euronews HD
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News HD
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8?HasBahCa.m3u8
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
 #EXTINF:-1 tvg-id="talktv.uk" tvg-name="Talk TV HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/talk-tv-uk.png" group-title="News",Talk TV HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="Box.uk" tvg-name="The Box" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="Music",The Box
