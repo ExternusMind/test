@@ -44,7 +44,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100916
 #EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="Comedy Central Extra" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycentralextra.png" group-title="Entertainment",Comedy Central Extra
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100926
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave HD
-https://cdnuk001.broadcastcdn.net/KUK-DAVE/tracks-v1a1/mono.m3u8
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692507.m3u8
 #EXTINF:-1 tvg-id="dave.uk" tvg-name="Dave FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/davehd.png" group-title="Entertainment",Dave FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100797
 #EXTINF:-1 tvg-id="drama.uk" tvg-name="Drama" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/drama.png" group-title="Entertainment",Drama
@@ -278,7 +278,7 @@ http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53956
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="Movies",Sky Cinema Action FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100938
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Movies",Sky Cinema Animation HD
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/1090
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692416.m3u8
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation FHD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Movies",Sky Cinema Animation FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/197793
 #EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="Movies",Sky Cinema Comedy HD
@@ -334,7 +334,7 @@ https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="Great! Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Great%21_Movies_Classic_logo.png" group-title="Movies",Great! Classic
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="Talking Pictures" tvg-logo="https://i.imgur.com/S1zoIp7.png" group-title="Movies",Talking Pictures
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/4710
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/692439.m3u8
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action HD" tvg-logo="https://i.imgur.com/sngAWff.png" group-title="Sky Sports",Sky Sports Action HD
 http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692272.m3u8
 #EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="Sky Sports Action FHD" tvg-logo="https://i.imgur.com/sngAWff.png" group-title="Sky Sports",Sky Sports Action FHD
