@@ -380,13 +380,13 @@ http://ky-iptv.com:80/live/robertd/robertd/189989.m3u8
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.imgur.com/Wn1fS4q.png" group-title="Sky Sports",Sky Sports Racing FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101047
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://i.imgur.com/ZVD8W6L.png" group-title="Sports",BT Sport 1 HD
-https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616919
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2001.m3u8
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://i.imgur.com/OmqC3Ai.png" group-title="Sports",BT Sport 2 HD
-https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616920
+https://cdn-uk.dravie.host/cdn/premium32/playlist.m3u8
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://i.imgur.com/3Iuxl2l.png" group-title="Sports",BT Sport 3 HD
-https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616921
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1999.m3u8
 #EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT Sport 4 HD" tvg-logo="https://media.info/i/lf/600/1659387051/1491.png" group-title="Sports",BT Sport 4 HD
-https://m3u-editor.com/serve/580a6730-1076-11ed-89ef-2fcea8197e43/606616922
+http://quality-restream.com:8080/single-ed8969/6554d47b5f/1124
 #EXTINF:-1 tvg-id="boxnation.uk" tvg-name="Box Nation HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxnationhd.png" group-title="Sports",Box Nation HD
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/1380
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/eurosport1hd.png" group-title="Sports",Eurosport 1 HD
