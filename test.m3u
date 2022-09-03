@@ -140,7 +140,7 @@ http://89.187.175.143:80/3021/mpegts
 #EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="United States",Fuse HD US
 http://ky-iptv.com:80/live/robertd/robertd/175857.m3u8
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="United States",HBO HD US
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53513
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53513
 #EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="United States",Showtime HD US
 http://ky-iptv.com:80/live/robertd/robertd/176056.m3u8
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="SYFY HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="United States",SYFY HD US
