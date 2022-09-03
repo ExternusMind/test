@@ -130,7 +130,7 @@ http://hostengine.live:25461/live/toolman/toolman/54900.m3u8
 #EXTINF:-1 tvg-id="comedyhub.us" tvg-name="Comedy Hub" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/COMEDYHUB_1000X1000.png?$296_164_PNG$" group-title="United States", Comedy Hub
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/512px-CMT_2017_logo.png" group-title="United States",CMT HD US
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163643
+http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53466
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="United States",FX HD US
 http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53500
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="United States",FXX HD US
@@ -148,11 +148,11 @@ http://89.187.179.148:826/12month0406/Rj6ul3S3P7/109210
 #EXTINF:-1 tvg-id="starz.us" tvg-name="Starz HD US" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="United States",Starz HD US
 http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53563
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="United States",TBS HD US
-http://ky-iptv.com:80/live/robertd/robertd/175938.m3u8
+http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=10879&extension=ts&play_token=o99Hf0NZEo
 #EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="United States",TNT HD US
 http://89.187.175.143:80/3030/mpegts
 #EXTINF:-1 tvg-id="usan.us" tvg-name="USA Network HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="United States",USA Network HD US
-http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/109229
+http://89.187.175.143:80/3025/mpegts
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="United States",VICE HD US
 http://89.187.175.143:80/3034/mpegts
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
@@ -380,9 +380,9 @@ http://ky-iptv.com:80/live/robertd/robertd/189989.m3u8
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.imgur.com/Wn1fS4q.png" group-title="Sky Sports",Sky Sports Racing FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101047
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://i.imgur.com/ZVD8W6L.png" group-title="Sports",BT Sport 1 HD
-http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/2001.m3u8
+http://lilitv.xyz:80/Iliri/Leshan/35699
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://i.imgur.com/OmqC3Ai.png" group-title="Sports",BT Sport 2 HD
-https://cdn-uk.dravie.host/cdn/premium32/playlist.m3u8
+http://lilitv.xyz:80/Iliri/Leshan/35700
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://i.imgur.com/3Iuxl2l.png" group-title="Sports",BT Sport 3 HD
 http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1999.m3u8
 #EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT Sport 4 HD" tvg-logo="https://media.info/i/lf/600/1659387051/1491.png" group-title="Sports",BT Sport 4 HD
