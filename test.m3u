@@ -227,6 +227,8 @@ https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/index.m3u8
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" group-title="News",Sky News HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100690
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="Al Jazeera HD" tvg-logo="https://www.pngitem.com/pimgs/m/0-4317_transparent-1800-png-al-jazeera-english-logo-png.png" group-title="News",Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="Bloomberg HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/bloomberg-live-events-us.png" group-title="News",Bloomberg HD
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Cnn.uk" tvg-name="CNN HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cnn-international-int.png" group-title="News",CNN HD
