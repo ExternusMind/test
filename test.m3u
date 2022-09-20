@@ -84,7 +84,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100840
 #EXTINF:-1 tvg-id="Quest.uk" tvg-name="Quest HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/questhd.png" group-title="Entertainment",Quest HD
 https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/index.m3u8
 #EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="Quest Red" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/questred.png" group-title="Entertainment",Quest Red
-http://mytv.fun:8080/o6xykqjb8k/jhf9wut17d/692543
+https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/index.m3u8
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/really.png" group-title="Entertainment",Really
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="realityxtra.uk" tvg-name="RealityXtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1429.1656607197.png" group-title="Entertainment",RealityXtra
@@ -221,7 +221,7 @@ http://mytv.fun:8080/qmoy6sepeq/c6vnvjzpvq/692602
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101119
 #EXTINF:-1 tvg-id="POPMax.uk" tvg-name="POP MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png" group-title="Kids",POP MAX
 https://cdnuk001.broadcastcdn.net/KUK-POPMAX/index.m3u8
-#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="Pop (Tiny Pop)" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tinypop.png" group-title="Kids",Pop (Tiny Pop)
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="Tiny Pop" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/tinypop.png" group-title="Kids",Tiny Pop
 https://cdnuk001.broadcastcdn.net/KUK-TINYPOP/index.m3u8
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="BBC News HD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
