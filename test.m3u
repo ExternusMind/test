@@ -124,19 +124,19 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100811
 #EXTINF:-1 tvg-id="Yesterday.uk" tvg-name="Yesterday" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/yesterday.png" group-title="Entertainment",Yesterday
 https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="United States",AMC HD US
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1537
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10056
 #EXTINF:-1 tvg-id="bbca.us" tvg-name="BBC America HD US" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="United States",BBC America HD US
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46830
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/15156
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States",Comedy Central HD US
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46809
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/17304
 #EXTINF:-1 tvg-id="comedyhub.us" tvg-name="Comedy Hub" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/COMEDYHUB_1000X1000.png?$296_164_PNG$" group-title="United States", Comedy Hub
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/512px-CMT_2017_logo.png" group-title="United States",CMT HD US
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53466
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/16852
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="United States",FX HD US
 http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/13763
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="United States",FXX HD US
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46789
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/17308
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="United States",Freeform HD US
 http://89.187.175.143:80/3021/mpegts
 #EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="United States",Fuse HD US
@@ -146,9 +146,9 @@ http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/685038
 #EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="United States",Showtime HD US
 http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/4926
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="SYFY HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="United States",SYFY HD US
-http://89.187.179.148:826/12month0406/Rj6ul3S3P7/109210
+http://cpi4u.com:45862/UNITED09/PJWqyWWzbV/105303
 #EXTINF:-1 tvg-id="starz.us" tvg-name="Starz HD US" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="United States",Starz HD US
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53563
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/145.m3u8
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/512px-TBS_Network-logo.svg.png" group-title="United States",TBS HD US
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:AB:98:86&stream=10879&extension=ts&play_token=o99Hf0NZEo
 #EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="United States",TNT HD US
@@ -354,7 +354,7 @@ http://etc12.xyz:900/live/2606678123/6976219981/191464.ts
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png" group-title="Sky Sports",Sky Sports F1 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101051
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football HD" tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="Sky Sports",Sky Sports Football HD
-http://etc12.xyz:900/live/2606678123/6976219981/153695.ts
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104189
 #EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://i.imgur.com/rsT6Cu2.png" group-title="Sky Sports",Sky Sports Football FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101044
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf HD" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="Sky Sports",Sky Sports Golf HD
@@ -362,15 +362,15 @@ http://etc12.xyz:900/live/2606678123/6976219981/153699.ts
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="Sky Sports",Sky Sports Golf FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101052
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="Sky Sports",Sky Sports Main Event HD
-http://etc12.xyz:900/live/2606678123/6976219981/153691.ts
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104183
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="Sky Sports",Sky Sports Main Event FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/103112
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix HD" tvg-logo="https://i.imgur.com/0CdrFCz.png" group-title="Sky Sports",Sky Sports Mix HD
-http://mytv.fun:8080/live/or9u2914xa/3olsrp2g9l/692276.m3u8
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/190843
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://i.imgur.com/0CdrFCz.png" group-title="Sky Sports",Sky Sports Mix FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/103109
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News HD" tvg-logo="https://i.imgur.com/FizZY9D.png" group-title="Sky Sports",Sky Sports News HD
-http://etc12.xyz:900/live/2606678123/6976219981/153707.ts
+http://conceal.cyou:80/Chunka/vma7Xom3No/4579
 #EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://i.imgur.com/FizZY9D.png" group-title="Sky Sports",Sky Sports News FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101042
 #EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="Sky Sports Premier League HD" tvg-logo="https://i.imgur.com/ChWdcRC.png" group-title="Sky Sports",Sky Sports Premier League HD
@@ -382,15 +382,15 @@ http://etc12.xyz:900/live/2606678123/6976219981/153709.ts
 #EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://i.imgur.com/Wn1fS4q.png" group-title="Sky Sports",Sky Sports Racing FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101047
 #EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1 HD" tvg-logo="https://i.imgur.com/ZVD8W6L.png" group-title="Sports",BT Sport 1 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3600
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104162
 #EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2 HD" tvg-logo="https://i.imgur.com/OmqC3Ai.png" group-title="Sports",BT Sport 2 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3601
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104164
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://i.imgur.com/3Iuxl2l.png" group-title="Sports",BT Sport 3 HD
-http://etc12.xyz:900/live/2606678123/6976219981/13778.ts
+http://reaperhosting.club:8080/jeavo/qudojpek/574883
 #EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT Sport 4 HD" tvg-logo="https://media.info/i/lf/600/1659387051/1491.png" group-title="Sports",BT Sport 4 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/255
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/104169
 #EXTINF:-1 tvg-id="boxnation.uk" tvg-name="Box Nation HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/boxnationhd.png" group-title="Sports",Box Nation HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50877
+http://mag.abcdxyz.one:80/lOKaeqL57z/4Kt7t4S7TM/113906
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport 1 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/eurosport1hd.png" group-title="Sports",Eurosport 1 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101057
 #EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="Eurosport 2 HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/eurosport2hd.png" group-title="Sports",Eurosport 2 HD
