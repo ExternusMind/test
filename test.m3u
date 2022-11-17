@@ -54,7 +54,7 @@ http://test.extraott-iptv.com:88/1308797002/jaZBm8tgXyMpGF2/153636
 #EXTINF:-1 tvg-id="e4.uk" tvg-name="E4 FHD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/e4hd.png" group-title="Entertainment",E4 FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100660
 #EXTINF:-1 tvg-id="E4extra.uk" tvg-name="E4 Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/E4_Extra%2C_2022.png" group-title="Entertainment",E4 Extra
-http://test.extraott-iptv.com:88/1308797002/jaZBm8tgXyMpGF2/191673
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146542
 #EXTINF:-1 tvg-id="eentertainment.uk" tvg-name="E! UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="Entertainment",E! UK
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100802
 #EXTINF:-1 tvg-id="Eden.uk" tvg-name="Eden HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/edenhd.png" group-title="Entertainment",Eden HD
@@ -88,7 +88,7 @@ https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/index.m3u8
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/really.png" group-title="Entertainment",Really
 https://cdnuk001.broadcastcdn.net/KUK-REALLY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="realityxtra.uk" tvg-name="RealityXtra" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1429.1656607197.png" group-title="Entertainment",RealityXtra
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146462
 #EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="Sky Arts HD" tvg-logo="https://www.freeview.co.uk/sites/default/files/inline-images/sky-arts-logo-1920w_0.png" group-title="Entertainment",Sky Arts HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100937
 #EXTINF:-1 tvg-id="sky1.uk" tvg-name="Sky Showcase HD" tvg-logo="https://i.imgur.com/7viaZKs.png" group-title="Entertainment",Sky Showcase HD
@@ -126,13 +126,13 @@ https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amc.us" tvg-name="AMC HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="United States",AMC HD US
 http://mains.services:2086/0776777761/4665816537/562
 #EXTINF:-1 tvg-id="bbca.us" tvg-name="BBC America HD US" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="United States",BBC America HD US
-http://mains.services:2086/0776777761/4665816537/64153
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="Comedy Central HD US" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/comedycenthd.png" group-title="United States",Comedy Central HD US
-http://mains.services:2086/0776777761/4665816537/257
+http://5ce.co:80/21964140902/9i8u7y6t5r/115359
 #EXTINF:-1 tvg-id="comedyhub.us" tvg-name="Comedy Hub" tvg-logo="https://images.samsung.com/is/image/samsung/assets/uk/tvs/smart-tv/samsung-tv-plus/COMEDYHUB_1000X1000.png?$296_164_PNG$" group-title="United States", Comedy Hub
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CMT_2017_logo.png/512px-CMT_2017_logo.png" group-title="United States",CMT HD US
-http://mains.services:2086/0776777761/4665816537/64143
+http://5ce.co:80/21964140902/9i8u7y6t5r/115355
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="United States",E! HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/9021
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="United States",FX HD US
@@ -146,7 +146,7 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6361
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="United States",HBO HD US
 http://clientportal.link:80/ARpvfPRbgj137/9ya0K2288/13685
 #EXTINF:-1 tvg-id="showtime.us" tvg-name="Showtime HD US" tvg-logo="https://i.imgur.com/F6rUoQ7.png" group-title="United States",Showtime HD US
-http://fortv.cc:8080/Rob/Rob2022/46214
+http://5ce.co:80/21964140902/9i8u7y6t5r/115528
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="SYFY HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="United States",SYFY HD US
 http://89.187.175.143:80/3105/index.m3u8
 #EXTINF:-1 tvg-id="starz.us" tvg-name="Starz HD US" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="United States",Starz HD US
@@ -160,7 +160,7 @@ http://89.187.175.143:80/3025/mpegts
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="United States",VICE HD US
 http://89.187.175.143:80/3034/mpegts
 #EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
-http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/692441
+http://saw.duplex-ott.net:2052/N@DO@/NVncJuu2XH/146488
 #EXTINF:-1 tvg-id="clarity.ca" tvg-name="Clarity 4K" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20220330T045012.png" group-title="Documentary",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="court.us" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Documentary",Court TV
@@ -363,7 +363,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/101044
 http://login.boxlion.nl:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13894
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="Sky Sports",Sky Sports Golf FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101052
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event HD" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="Sky Sports",Sky Sports Main Event HD
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="Sky Sports",Sky Sports Main Event UHD
 http://dmtn.tv:8080/steveny5997/54332611/42989
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.imgur.com/Bi8uR5O.png" group-title="Sky Sports",Sky Sports Main Event FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/103112
@@ -399,9 +399,9 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/101057
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101058
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="Free Sports HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/freesportshd.png" group-title="Sports",Free Sports HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101062
-#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Premier Sports 1 HD" tvg-logo="https://i.imgur.com/L6E4dsq.png" group-title="Sports",Premier Sports 1 HD
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="Viaplay Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Viaplay_logo.svg/1920px-Viaplay_logo.svg.png" group-title="Sports",Viaplay Sports 1 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101064
-#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Premier Sports 2 HD" tvg-logo="https://i.imgur.com/RkJuPpe.png" group-title="Sports",Premier Sports 2 HD
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="Viaplay Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Viaplay_logo.svg/1920px-Viaplay_logo.svg.png" group-title="Sports",Viaplay Sports 2 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101065
 #EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="Racing UK HD" tvg-logo="https://i.imgur.com/n8C8jNG.png" group-title="Sports",Racing UK HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101066
