@@ -68,7 +68,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100800
 #EXTINF:-1 tvg-id="Great.uk" tvg-name="Great! TV" tvg-logo="https://i.imgur.com/WGeAMUl.png" group-title="Entertainment",Great! TV
 https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="home.uk" tvg-name="HGTV" tvg-logo="https://www.floorsandingexperts.co.uk/wp-content/uploads/hgtv-logo-with-r.png" group-title="Entertainment",HGTV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6227?protocol=hls
+http://62.131.92.221:60330/play/a07r
 #EXTINF:-1 tvg-id="Legend.uk" tvg-name="LEGEND" tvg-logo="https://www.legend-tv.co.uk/grfx/stuff/legend-logo-orange.png" group-title="Entertainment",LEGEND
 https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="londonlive.uk" tvg-name="London Live" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/londonlive.png" group-title="Entertainment",London Live
@@ -94,7 +94,7 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100937
 #EXTINF:-1 tvg-id="sky1.uk" tvg-name="Sky Showcase HD" tvg-logo="https://i.imgur.com/7viaZKs.png" group-title="Entertainment",Sky Showcase HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100806
 #EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://limitlesstv.xyz/website/Logos/Logos/skyatlantichd.png" group-title="Entertainment",Sky Atlantic HD
-http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/692553
+http://ac.traveliptv.nl:80/2023extree2034/34OAMg62EDgfgKbm0yOMdxds45/1001
 #EXTINF:-1 tvg-id="skycrime.uk" tvg-name="Sky Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Sky_Crime_2020.png/512px-Sky_Crime_2020.png" group-title="Entertainment",Sky Crime HD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/15155
 #EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Sky_Comedy_2020.png/512px-Sky_Comedy_2020.png" group-title="Entertainment",Sky Comedy HD
@@ -290,7 +290,7 @@ http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/3050
 #EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="Sky Cinema Comedy FHD" tvg-logo="https://i.imgur.com/Gd9DuRH.png" group-title="Movies",Sky Cinema Comedy FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100939
 #EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama HD" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="Movies",Sky Cinema Drama HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/38892
+http://ac.traveliptv.nl:80/2023extree2034/34OAMg62EDgfgKbm0yOMdxds45/1003
 #EXTINF:-1 tvg-id="skydrama.uk" tvg-name="Sky Cinema Drama FHD" tvg-logo="https://i.imgur.com/bCVpVKE.png" group-title="Movies",Sky Cinema Drama FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100947
 #EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="https://i.imgur.com/vKZSotN.png" group-title="Movies",Sky Cinema Family HD
