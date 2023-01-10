@@ -72,7 +72,7 @@ http://62.131.92.221:60330/play/a07r
 #EXTINF:-1 tvg-id="Legend.uk" tvg-name="LEGEND" tvg-logo="https://www.legend-tv.co.uk/grfx/stuff/legend-logo-orange.png" group-title="Entertainment",LEGEND
 https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="londonlive.uk" tvg-name="London Live" tvg-logo="https://i.imgur.com/qwgxxHa.png" group-title="Entertainment",London Live
-http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/692524
+http://yourstream.link:24561/live/athos5681/798171/101467.ts
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4 HD" tvg-logo="https://i.imgur.com/cx5YcAU.png" group-title="Entertainment",More 4 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100803
 #EXTINF:-1 tvg-id="mtv.uk" tvg-name="MTV HD" tvg-logo="https://www.nicepng.com/png/full/57-578927_mtv-logo-png.png" group-title="Entertainment",MTV HD
@@ -200,7 +200,7 @@ https://cdnuk001.broadcastcdn.net/KUK-SMITHSONIANHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="babytv.uk" tvg-name="Baby TV" tvg-logo="https://i.imgur.com/fvVovnc.png" group-title="Kids",Baby TV
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100921
 #EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang HD
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1058
+http://yourstream.link:24561/live/athos5681/798171/347.ts
 #EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/B29D2s1.png" group-title="Kids",Cartoonito
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100923
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network HD
@@ -212,13 +212,13 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 #EXTINF:-1 tvg-id="CITV.uk" tvg-name="CITV" tvg-logo="https://i.imgur.com/HBMEnNG.png" group-title="Kids",CITV
 https://cdnuk001.broadcastcdn.net/KUK-CITV/index.m3u8
 #EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nick HD
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/2968
+http://yourstream.link:24561/live/athos5681/798171/102838.ts
 #EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Junior
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/3105
+http://yourstream.link:24561/live/athos5681/798171/276.ts
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr Too" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Nick_Jr_Too.png" group-title="Kids",Nick Jr Too
-http://localiptv.site:85/AlwahaNasko42/82XMGZBI5y/1066
+http://yourstream.link:24561/live/athos5681/798171/286.ts
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons
-http://netsports.tk:80/LLSh4HXDRb/RFAPbssemq/3104
+http://yourstream.link:24561/live/athos5681/798171/279.ts
 #EXTINF:-1 tvg-id="pop.uk" tvg-name="POP" tvg-logo="https://i.imgur.com/fGUlCY3.png" group-title="Kids",POP
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101119
 #EXTINF:-1 tvg-id="POPMax.uk" tvg-name="POP MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pop-max-logo.png/220px-Pop-max-logo.png" group-title="Kids",POP MAX
@@ -246,7 +246,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 #EXTINF:-1 tvg-id="4music.uk" tvg-name="4Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png" group-title="Music",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="Clubland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clubland_tv.png" group-title="Music",Clubland TV
-http://iptvtree.net:8080/GenIptvLast/FaP6YswK77NaOPOF/144752
+http://yourstream.link:24561/live/athos5681/798171/65813.ts
 #EXTINF:-1 tvg-id="Kerrang.uk" tvg-name="Kerrang!" tvg-logo="https://i.imgur.com/3mwf8Uq.png" group-title="Music",Kerrang!
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 tvg-id="KissTV.uk" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/cmwa5Wh.png" group-title="Music",Kiss TV
@@ -278,7 +278,7 @@ http://ch.iptvmate.net/30cada41457f1d01f5ab9f1a608ebca6.m3u8
 #EXTINF:-1 tvg-id="vh1.eu" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/768px-VH1_logonew.svg.png" group-title="Music",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&amp;expand=simulcast_standard&amp;exp=1529767847&amp;rn=-811303751&amp;cid=36953f5b6546464590d2fcd954bc89cf&amp;tc=1&amp;sig=
 #EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="Sky Cinema Action HD" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="Movies",Sky Cinema Action HD
-http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/692421
+http://yourstream.link:24561/live/athos5681/798171/236.ts
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="Sky Cinema Action FHD" tvg-logo="https://i.imgur.com/2JjZG7g.png" group-title="Movies",Sky Cinema Action FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100938
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="Sky Cinema Animation HD" tvg-logo="https://i.imgur.com/oWQ5qan.png" group-title="Movies",Sky Cinema Animation HD
@@ -318,7 +318,7 @@ http://ip365.cx:900/0324429672/3273888951/153764
 #EXTINF:-1 tvg-id="skyselect.uk" tvg-name="Sky Cinema Select FHD" tvg-logo="https://i.imgur.com/l97n20v.png" group-title="Movies",Sky Cinema Select FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100945
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="Movies",Sky Cinema Thriller HD
-http://satelliteiptv.xyz:80/xurdrjnso/ffgh56bnvcd/692426
+http://yourstream.link:24561/live/athos5681/798171/202.ts
 #EXTINF:-1 tvg-id="skythriller.uk" tvg-name="Sky Cinema Thriller FHD" tvg-logo="https://i.imgur.com/4Z1oKde.png" group-title="Movies",Sky Cinema Thriller FHD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100946
 #EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/C09wxQr.png" group-title="Movies",TCM HD
