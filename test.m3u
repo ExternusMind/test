@@ -142,7 +142,7 @@ http://ip365.cx:900/0324429672/3273888951/212539
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png" group-title="US Entertainment",FXX HD US
 http://line.premiumpowers.net:80/Bianca/1234567/45449
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="US Entertainment",Freeform HD US
-http://dominoiptv.com:2082/ZoomMaster/BwRyF5Dcrecb/32208
+http://iptvglobal.site:25461/LionTv/r1942G22hz/87938
 #EXTINF:-1 tvg-id="fuse.us" tvg-name="Fuse HD US" tvg-logo="https://i.imgur.com/mijRpPQ.jpg" group-title="US Entertainment",Fuse HD US
 http://ip365.cx:900/0324429672/3273888951/181560
 #EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="US Entertainment",HBO HD US
@@ -245,8 +245,8 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100690
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="Bloomberg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/768px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg HD
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Cnbc.uk" tvg-name="CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1052px-CNBC_logo.svg.png" group-title="News",CNBC HD
-http://flysilo.top:8080/live/301667682399784040/9961667682399784/29906.ts
+#EXTINF:-1 tvg-id="Cnbc.uk" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1052px-CNBC_logo.svg.png" group-title="News",CNBC
+http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1 tvg-id="Cnn.uk" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/263px-CNN.svg.png" group-title="News",CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euronews_logo.svg/816px-Euronews_logo.svg.png" group-title="News",Euronews HD
