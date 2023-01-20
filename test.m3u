@@ -95,15 +95,15 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100937
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100806
 #EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/512px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Entertainment",Sky Atlantic HD
 http://dominoiptv.com:2082/ZoomMaster/BwRyF5Dcrecb/16144
-#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="Sky Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Sky_Crime_2020.png/512px-Sky_Crime_2020.png" group-title="Entertainment",Sky Crime HD
+#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="Sky Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Sky_Crime_logo_2019.svg/1280px-Sky_Crime_logo_2019.svg.png" group-title="Entertainment",Sky Crime HD
 http://ultratv.one:2095/xMsGHAzQ/kYuckAK/71424
-#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Sky_Comedy_2020.png/512px-Sky_Comedy_2020.png" group-title="Entertainment",Sky Comedy HD
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="Sky Comedy HD" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt57c1ff1486ba39e4/5edfe08b08d08473f007bbdd/Sky_Comedy_PRIMARY_RGB.png" group-title="Entertainment",Sky Comedy HD
 http://ip365.cx:900/0324429672/3273888951/191468
 #EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="Sky Witness HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Witness_%282020%29.png/512px-Sky_Witness_%282020%29.png" group-title="Entertainment",Sky Witness HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100966
 #EXTINF:-1 tvg-id="Skymax.uk" tvg-name="Sky Max HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/400/160/skychb4061.png" group-title="Entertainment",Sky Max HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/547880
-#EXTINF:-1 tvg-id="sky2.uk" tvg-name="Sky Replay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sky_Replay_DE_Logo_2021.svg/512px-Sky_Replay_DE_Logo_2021.svg.png" group-title="Entertainment",Sky Replay
+#EXTINF:-1 tvg-id="sky2.uk" tvg-name="Sky Replay" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1177.1598489886.png" group-title="Entertainment",Sky Replay
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100814
 #EXTINF:-1 tvg-id="Scifi.uk" tvg-name="Sky Sci-Fi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sky_Sci-Fi_2022.svg/1920px-Sky_Sci-Fi_2022.svg.png" group-title="Entertainment",Sky Sci-Fi HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/100771
@@ -167,7 +167,7 @@ http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/254783
 http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/320063
 #EXTINF:-1 tvg-id="FS2.us" tvg-name="FOX SPORTS 2 HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/320px-2015_Fox_sports_logo.svg.png" group-title="US Sports",FOX SPORTS 2 US
 http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/320064
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD US" tvg-logo="https://png.pngitem.com/pimgs/s/556-5567132_espn-2-logo-png-transparent-png.png" group-title="US Sports",ESPN US
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="US Sports",ESPN US
 http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/320056
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2 HD US" tvg-logo="https://png.pngitem.com/pimgs/s/556-5567132_espn-2-logo-png-transparent-png.png" group-title="US Sports",ESPN 2 US
 http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/320053
@@ -253,7 +253,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News HD
 https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
-#EXTINF:-1 tvg-id="NHK.uk" tvg-name="NHK World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/NHK_World-Japan_TV.svg" group-title="News",NHK World HD
+#EXTINF:-1 tvg-id="NHK.uk" tvg-name="NHK World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/768px-NHK_World-Japan_TV.svg.png" group-title="News",NHK World HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674234641/ei/sXbKY9y6A4qFkwaXm7SQCA/ip/138.91.87.16/id/f0lYkdA-Gtw.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgdAtteSpeMwB3MKr6_iHtSiIls4Kjsq7shrpUgnEd4UQCIQDeiVmgnESIrWpmjXc7VmMdVSgTvSIXEh5fplIwd6TsJg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="talktv.uk" tvg-name="Talk TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/TalkTV_logo.png" group-title="News",Talk TV HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
@@ -347,11 +347,11 @@ http://line.uhd-ott.io:80/6A3173/AC1A7A/100951
 https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="movies24.uk" tvg-name="Movies24" tvg-logo="https://i.imgur.com/ndf8v1j.png" group-title="Movies",Movies24
 http://test.extraott-iptv.com:88/1308797002/jaZBm8tgXyMpGF2/400230358
-#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Great%21_Movies_logo.webp/512px-Great%21_Movies_logo.webp.png" group-title="Movies",Great! Movies
+#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/800px-Great%21_Movies_logo_2021.svg.png" group-title="Movies",Great! Movies
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="greatmoviesaction.uk" tvg-name="Great! Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Great%21_Movies_Action_logo.webp/512px-Great%21_Movies_Action_logo.webp.png" group-title="Movies",Great! Action
+#EXTINF:-1 tvg-id="greatmoviesaction.uk" tvg-name="Great! Action" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1373.1622053389.png" group-title="Movies",Great! Action
 https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="Great! Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Great%21_Movies_Classic_logo.png" group-title="Movies",Great! Classic
+#EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="Great! Classic" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1378.1622053432.png" group-title="Movies",Great! Classic
 https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="Talking Pictures" tvg-logo="https://i.imgur.com/S1zoIp7.png" group-title="Movies",Talking Pictures
 http://62.131.92.221:60530/play/a09o/index.m3u8
@@ -405,7 +405,7 @@ http://nerdsvpn.nl:8080/trash/8324987586/303852
 http://ultraflix.uk:8080/RowlandsFSchr1s/q2mv6V9PsAZE/1858
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3 HD" tvg-logo="https://i.imgur.com/3Iuxl2l.png" group-title="Sports",BT Sport 3 HD
 http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/6564/index.m3u8
-#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT Sport 4 HD" tvg-logo="https://media.info/i/lf/600/1659387051/1491.png" group-title="Sports",BT Sport 4 HD
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="BT Sport 4 HD" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png" group-title="Sports",BT Sport 4 HD
 http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/6563/index.m3u8
 #EXTINF:-1 tvg-id="btsport5.uk" tvg-name="BT Sport 5 HD" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_5_2022_WHITE_RGB.png" group-title="Sports",BT Sport 5 HD
 http://mytv.fun:80/jc1bu936np/xg29vipolf/692286
