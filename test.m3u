@@ -419,6 +419,8 @@ http://mytv.fun:80/jc1bu936np/xg29vipolf/692289
 http://mytv.fun:80/jc1bu936np/xg29vipolf/692290
 #EXTINF:-1 tvg-id="btsport10.uk" tvg-name="BT Sport 10 HD" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_10_2022_WHITE_RGB.png" group-title="Sports",BT Sport 10 HD
 http://mytv.fun:80/jc1bu936np/xg29vipolf/695741
+#EXTINF:-1 tvg-id="astro.uk" tvg-name="Astro Supersport UHD" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="Sports",Astro Supersport UHD
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
 #EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 HD
 http://line.uhd-ott.io:80/6A3173/AC1A7A/101057
 #EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 HD
